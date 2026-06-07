@@ -69,10 +69,17 @@ The dataset contains product-level information such as:
 Zepto-SQL-Analysis/
 │
 ├── README.md
-├── zepto_project.sql
-└── zepto_data.csv
-```
+├── Zepto_analysis.sql
+├── zepto_cleaned.sql
+└── zepto_raw.csv
 
+```
+## Files Included
+
+- zepto_raw.csv – Original dataset
+- zepto_cleaned.csv – Cleaned and transformed dataset
+- zepto_analysis.sql – SQL queries used for data cleaning and analysis
+  
 ---
 
 ## Key Learnings
