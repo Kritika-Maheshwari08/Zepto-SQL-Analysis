@@ -1,0 +1,1001 @@
+id,Category,name,mrp,discountPercent,availableQuantity,discountedSellingPrice,weightInGms,outOfStock,quantity
+1,"Fruits & Vegetables",Onion,25,16,3,21,1000,FALSE,1
+2,"Fruits & Vegetables","Sponge Gourd",25,16,2,21,300,FALSE,300
+3,"Fruits & Vegetables","Tomato Hybrid",42,16,3,35,1000,FALSE,1
+4,"Fruits & Vegetables","Zama Organics Carrot",20,15,3,17,250,FALSE,250
+5,"Fruits & Vegetables","Tender Coconut",51,15,3,43,58,FALSE,1
+6,"Fruits & Vegetables","Coriander Leaves",20,15,3,17,100,FALSE,100
+7,"Fruits & Vegetables","Safal Frozen - Mixed Vegetables",110,4,2,105,1000,FALSE,1
+8,"Fruits & Vegetables","Zama Organics Sweet Potato",37,16,3,31,250,FALSE,250
+9,"Fruits & Vegetables","Ladies Finger ",14,14,3,12,250,FALSE,250
+10,"Fruits & Vegetables",Beetroot,16,18,3,13,500,FALSE,500
+11,"Fruits & Vegetables",Potato,35,17,3,29,1000,FALSE,1
+12,"Fruits & Vegetables",Lemon,75,16,3,63,200,FALSE,200
+13,"Fruits & Vegetables",Capsicum,26,19,3,21,500,FALSE,500
+14,"Fruits & Vegetables",Carrot,19,21,3,15,500,FALSE,500
+15,"Fruits & Vegetables","Watermelon ",58,15,3,49,58,FALSE,1
+16,"Fruits & Vegetables","Capsicum Green ",23,17,3,19,250,FALSE,250
+17,"Fruits & Vegetables","Chilli Green ",19,15,3,16,100,FALSE,100
+18,"Fruits & Vegetables",Garlic,17,23,3,13,200,FALSE,200
+19,"Fruits & Vegetables",Carrot,13,15,0,11,250,TRUE,200
+20,"Fruits & Vegetables",Beetroot,11,18,0,9,250,TRUE,250
+21,"Fruits & Vegetables","Banana Robusta",29,17,3,24,348,FALSE,6
+22,"Fruits & Vegetables","Garlic Indian ",11,18,3,9,100,FALSE,100
+23,"Fruits & Vegetables","Moong Sprouts",35,17,0,29,200,TRUE,200
+24,"Fruits & Vegetables","Safal Frozen Mixed Vegetables",60,5,0,57,500,TRUE,500
+25,"Fruits & Vegetables","Safal Frozen Corn",41,4,0,39,200,TRUE,200
+26,"Fruits & Vegetables","Safal Frozen - Sweet Corn",160,5,0,152,1000,TRUE,1
+27,"Cooking Essentials","Maggi 2 Minute Masala Noodles",12,0,6,12,70,FALSE,70
+28,"Cooking Essentials","iD Idli & Dosa Batter ",80,15,6,68,1000,FALSE,1
+29,"Cooking Essentials","Tata Salt",24,0,6,24,1000,FALSE,1
+30,"Cooking Essentials","Arden Eggs White",97,0,4,97,696,FALSE,12
+31,"Cooking Essentials","Arden Eggs White",65,15,4,55,348,FALSE,6
+32,"Cooking Essentials","Fortune Sunlite Refined Sunflower (Pouch)",230,4,6,219,1000,FALSE,1
+33,"Cooking Essentials","Aashirvaad Superior MP Atta",250,2,6,245,5000,FALSE,5
+34,"Cooking Essentials","Amul Pure Ghee (Pouch)",255,2,6,249,500,FALSE,500
+35,"Cooking Essentials","Arden Eggs Brown",85,7,4,79,348,FALSE,6
+36,"Cooking Essentials","Tata Salt Lite",40,10,6,36,1000,FALSE,1
+37,"Cooking Essentials","Saffola Gold Oil (Pouch)",215,0,6,215,1000,FALSE,1
+38,"Fruits & Vegetables",Cauliflower,26,15,3,22,58,FALSE,1
+39,"Fruits & Vegetables",Ginger,14,14,3,12,200,FALSE,200
+40,"Fruits & Vegetables",Spinach,19,15,3,16,250,FALSE,250
+41,"Fruits & Vegetables",Muskmelon,42,16,3,35,58,FALSE,1
+42,"Fruits & Vegetables","Cabbage ",15,13,3,13,58,FALSE,1
+43,"Fruits & Vegetables",Methi,30,16,3,25,250,FALSE,250
+44,"Fruits & Vegetables",Broccoli,36,16,3,30,500,FALSE,500
+45,"Fruits & Vegetables",Sapota,30,16,3,25,348,FALSE,6
+46,"Fruits & Vegetables",Onion,68,16,3,57,3000,FALSE,3
+47,"Fruits & Vegetables",Potato,100,16,3,84,3000,FALSE,3
+48,"Fruits & Vegetables","Orange Nagpur",82,15,3,69,232,FALSE,4
+49,"Fruits & Vegetables","Mint Leaves ",11,18,3,9,100,FALSE,100
+50,"Fruits & Vegetables","Beans French",33,15,3,28,250,FALSE,250
+51,"Fruits & Vegetables","Bottle Gourd ",26,15,3,22,58,FALSE,1
+52,"Fruits & Vegetables","Banana Elaichi ",58,15,3,49,348,FALSE,6
+53,"Fruits & Vegetables","Coconut Big",36,16,3,30,58,FALSE,1
+54,"Fruits & Vegetables","Curry Leaves",13,15,3,11,50,FALSE,50
+55,"Fruits & Vegetables","Brinjal Bharta",19,15,3,16,58,FALSE,1
+56,"Fruits & Vegetables","Lettuce Iceberg",25,16,3,21,250,FALSE,250
+57,"Fruits & Vegetables",Papaya,54,16,3,45,58,FALSE,1
+58,"Fruits & Vegetables","Apple Shimla",142,16,3,119,232,FALSE,4
+59,"Fruits & Vegetables","Bitter Gourd",18,16,3,15,250,FALSE,250
+60,"Fruits & Vegetables","Brinjal Small",18,16,3,15,250,FALSE,250
+61,"Fruits & Vegetables","Sweet Corn",36,16,3,30,116,FALSE,2
+62,"Fruits & Vegetables","Spring Onion ",18,16,3,15,250,FALSE,250
+63,"Fruits & Vegetables","Bell Peppers Red & Yellow ",118,16,3,99,116,FALSE,2
+64,"Fruits & Vegetables","Pomegranate ",106,16,3,89,116,FALSE,2
+65,"Fruits & Vegetables","Sweet Lime",30,16,3,25,116,FALSE,2
+66,"Fruits & Vegetables","Baby Potato",19,15,3,16,500,FALSE,500
+67,"Fruits & Vegetables",Coccinia,32,15,3,27,250,FALSE,250
+68,"Fruits & Vegetables",Guava,54,16,3,45,232,FALSE,4
+69,"Fruits & Vegetables","Apple Washington",177,15,3,149,232,FALSE,4
+70,"Fruits & Vegetables",Amla,32,15,3,27,250,FALSE,250
+71,"Fruits & Vegetables","Beans Cluster",30,16,3,25,250,FALSE,250
+72,"Fruits & Vegetables","Apple Royal Gala",189,15,3,159,232,FALSE,4
+73,"Fruits & Vegetables","Chilli Bhaji",30,16,3,25,250,FALSE,250
+74,"Fruits & Vegetables","Lettuce Green",23,17,3,19,100,FALSE,100
+75,"Fruits & Vegetables","Baby Corn Peeled",35,17,3,29,250,FALSE,250
+76,"Fruits & Vegetables","Mixed Sprouts",35,17,3,29,200,FALSE,200
+77,"Fruits & Vegetables","Zucchini Green",35,17,3,29,250,FALSE,250
+78,"Fruits & Vegetables","Beans Broad",42,16,3,35,250,FALSE,250
+79,"Fruits & Vegetables","Raw Banana",20,15,6,17,500,FALSE,500
+80,"Fruits & Vegetables","Colocasia ",29,17,6,24,500,FALSE,500
+81,"Fruits & Vegetables","Tomato Cherry ",35,17,3,29,200,FALSE,200
+82,"Fruits & Vegetables","Sweet Potato ",38,15,3,32,500,FALSE,500
+83,"Fruits & Vegetables","Pineapple Slice",89,15,3,75,200,FALSE,200
+84,"Fruits & Vegetables",Orange,54,16,3,45,116,FALSE,2
+85,"Fruits & Vegetables","Dragon Fruit Imported",70,15,3,59,58,FALSE,1
+86,"Fruits & Vegetables","Zucchini Yellow",42,16,3,35,250,FALSE,500
+87,"Fruits & Vegetables","Apple Kinnaur",142,16,6,119,232,FALSE,4
+88,"Fruits & Vegetables",Pineapple,94,15,3,79,58,FALSE,1
+89,"Fruits & Vegetables",Basil,20,15,3,17,100,FALSE,100
+90,"Fruits & Vegetables",Parsley,17,17,3,14,100,FALSE,100
+91,"Fruits & Vegetables","Ridge Gourd",30,16,3,25,500,FALSE,500
+92,"Fruits & Vegetables","Papaya Cut",46,15,3,39,200,FALSE,200
+93,"Fruits & Vegetables","Pomegranate Peeled",58,15,2,49,100,FALSE,100
+94,"Fruits & Vegetables","Pear Green Imported",82,15,3,69,116,FALSE,2
+95,"Fruits & Vegetables","Guava Thai",70,15,3,59,116,FALSE,2
+96,"Fruits & Vegetables","Lettuce Red",20,15,3,17,100,FALSE,100
+97,"Fruits & Vegetables","Mango Raw",60,16,3,50,500,FALSE,500
+98,"Fruits & Vegetables","Biryani /Pulav Mix",58,15,3,49,250,FALSE,250
+99,"Fruits & Vegetables","Banana Nendran",54,16,6,45,500,FALSE,500
+100,"Fruits & Vegetables","Pumpkin Cut",30,16,3,25,200,FALSE,200
+101,"Fruits & Vegetables","Banana Red",54,16,6,45,500,FALSE,500
+102,"Fruits & Vegetables","Radish White",23,17,6,19,500,FALSE,500
+103,"Fruits & Vegetables","Avocado Indian Premium",177,15,3,149,58,FALSE,1
+104,"Fruits & Vegetables","Banana Leaf",12,16,2,10,58,FALSE,1
+105,"Cooking Essentials","Dhara Filtered Groundnut Oil (Jar)",1050,1,6,1035,5000,FALSE,5
+106,"Cooking Essentials","Pillsbury Choco Chip Pancake Mix",99,5,6,94,165,FALSE,165
+107,"Cooking Essentials","Hershey's Caramel Syrup",230,0,1,230,623,FALSE,623
+108,"Cooking Essentials","Pillsbury Multi Grain Atta",60,6,3,56,1000,FALSE,1
+109,"Cooking Essentials","McCain New Mini Samosa with Cheese Corn Style Filling",120,1,2,118,240,FALSE,240
+110,"Cooking Essentials","Satyam Puffed Rice Kurmura (A)",43,0,6,43,200,FALSE,200
+111,"Cooking Essentials","MTR 3 Min Poha",25,0,6,25,60,FALSE,60
+112,"Cooking Essentials","Ching's Manchurian Instant Noodles",15,0,5,15,60,FALSE,60
+113,"Cooking Essentials","Everest Pav Bhaji Masala",70,0,2,70,100,FALSE,100
+114,"Cooking Essentials","Hershey's Chocolate Flavour Syrup",220,6,6,205,623,FALSE,680
+115,"Cooking Essentials","Popular Essentials Dhania (Coriander Seeds)",55,16,4,46,200,FALSE,200
+116,"Cooking Essentials","24 Mantra Red Chilly Whole",70,7,1,65,100,FALSE,100
+117,"Cooking Essentials","Dabur Honey - World's No.1",120,0,6,120,250,FALSE,250
+118,"Cooking Essentials","24 Mantra Organic Puffed Rice",40,2,6,39,200,FALSE,200
+119,"Cooking Essentials","24 Mantra Organic Wheat Daliya ",48,2,2,47,500,FALSE,500
+120,"Cooking Essentials","24 Mantra Organic Ragi Flour",65,20,4,52,500,FALSE,500
+121,"Cooking Essentials","Popular Essentials Cinnamon Whole (Dalchini)",35,5,6,33,25,FALSE,25
+122,"Cooking Essentials","Sundrop Super Lite Advanced - Sunflower Oil",215,0,4,215,1000,FALSE,1
+123,"Cooking Essentials","Pillsbury Atta/Godihittu - Chakki Fresh",102,7,4,94,2000,FALSE,2
+124,"Cooking Essentials","Popular Essentials Green Moong Chilka/Chilka (Un-Polished)",85,7,5,79,500,FALSE,500
+125,"Cooking Essentials","Popular Essentials HMT Kolam Steam",75,0,3,75,1000,FALSE,1
+126,"Cooking Essentials","Popular Essentials Black Urad Split",80,10,4,72,500,FALSE,500
+127,"Cooking Essentials","Keya Oregano",109,10,5,98,9,FALSE,9
+128,"Cooking Essentials","Popular Essentials Pink Rajma",100,10,6,90,500,FALSE,500
+129,"Cooking Essentials","Everest Chicken Masala",74,2,6,72,100,FALSE,100
+130,"Cooking Essentials","Popular Essentials HMT Kolam Steam",370,10,6,333,5000,FALSE,5
+131,"Cooking Essentials","Everest Shahi Paneer Masala",42,4,5,40,50,FALSE,50
+132,"Cooking Essentials","Godrej Yummiez Chicken Nuggets",325,9,1,293,500,FALSE,500
+133,"Cooking Essentials","Flying Bird Vanilla Essence",35,2,6,34,20,FALSE,20
+134,"Cooking Essentials","Everest Sabji Masala",30,3,6,29,50,FALSE,50
+135,"Cooking Essentials","Popular Essentials Californian Almond",695,32,6,470,500,FALSE,500
+136,"Cooking Essentials","Cornitos Cornitos Taco Shells - 4 Inches",110,20,6,88,80,FALSE,80
+137,"Cooking Essentials","Everest Rajma Masala",33,3,5,32,50,FALSE,50
+138,"Cooking Essentials","Popular Essentials White Til",40,5,1,38,100,FALSE,100
+139,"Cooking Essentials","Amul Dark Compound Chocolate Slab",125,2,6,122,500,FALSE,500
+140,"Cooking Essentials","Mothers Recipe Papad Chana Masala",79,10,6,71,200,FALSE,200
+141,"Cooking Essentials","Ching's Schezwan Masala Instant Noodles",60,0,1,60,240,FALSE,240
+142,"Cooking Essentials","Amul Milk Compound Chocolate Slab",110,2,6,107,500,FALSE,500
+143,"Cooking Essentials","Eastern Chicken Masala",70,7,3,65,100,FALSE,100
+144,"Cooking Essentials","Popular Essentials Methi Seeds",25,0,5,25,100,FALSE,100
+145,"Cooking Essentials","Saffola Yummy Masala Noodles ",20,0,2,20,46,FALSE,46
+146,"Cooking Essentials","Cadbury Hot Chocolate",175,5,6,166,200,FALSE,200
+147,"Cooking Essentials","Ching's Chicken Chilli Masala",10,0,6,10,20,FALSE,20
+148,"Cooking Essentials","Dabur Keora water - Authentic flavour for Biryani's and Desserts",62,6,6,58,250,FALSE,250
+149,"Cooking Essentials","Popular Essentials Black Cardamom/Elaichi ",100,10,6,90,50,FALSE,50
+150,"Cooking Essentials","Popular Essentials Idli Rice",60,10,4,54,1000,FALSE,1
+151,"Cooking Essentials","Everest Chole Masala",33,3,1,32,50,FALSE,50
+152,"Cooking Essentials","Dabur Hommade Tamarind Paste",48,6,6,45,200,FALSE,200
+153,"Cooking Essentials","Popular Essentials Cooking Soda",30,10,6,27,200,FALSE,200
+154,"Cooking Essentials","RRO Primio Refined Groundnut Oil Pet Bottle",255,6,2,239,1000,FALSE,1
+155,"Cooking Essentials","Everest Pani Puri Masala",31,3,6,30,50,FALSE,50
+156,"Cooking Essentials","Nissin Cup Noodles Tangy Tomato",50,10,2,45,70,FALSE,70
+157,"Cooking Essentials","Ching's Veg Manchurian Masala",10,0,2,10,20,FALSE,20
+158,"Cooking Essentials","Ceres Foods Fish Mustard Instant Liquid Masala",220,50,6,110,200,FALSE,200
+159,"Cooking Essentials","Everest Garam Masala",158,10,6,142,200,FALSE,200
+160,"Cooking Essentials","24 Mantra Organic Jowar Flour",70,7,6,65,500,FALSE,500
+161,"Cooking Essentials","Maggi Coconut Milkpowder",100,0,6,100,100,FALSE,100
+162,"Cooking Essentials","On1y Pepper Grinder",159,9,1,144,50,FALSE,50
+163,"Cooking Essentials","Popular Essentials Rice Flour",60,0,3,60,1000,FALSE,1
+164,"Cooking Essentials","Sunfeast Yippee! Pasta Treat - Sour Cream Onion",28,10,1,25,65,FALSE,65
+165,"Cooking Essentials","24 Mantra Organic Brown Sona Masoori Rice",95,0,6,95,1000,FALSE,1
+166,"Cooking Essentials","Happilo Premium Afghani Anjeer",365,29,2,256,200,FALSE,200
+167,"Cooking Essentials","Popular Essentials Chiroti Sooji",35,2,6,34,500,FALSE,500
+168,"Cooking Essentials","RRO Til Dil Premium Til Oil Bottle",330,10,5,294,1000,FALSE,1
+169,"Cooking Essentials","Popular Essentials Red Rajma",90,10,6,81,500,FALSE,500
+170,"Cooking Essentials","Cornitos Peanut - Premium Salted ",120,10,6,108,150,FALSE,150
+171,"Cooking Essentials","Popular Essentials Black Pepper",100,10,5,90,100,FALSE,100
+172,"Cooking Essentials","24 Mantra Organic Tur Dal - Split",130,7,6,120,500,FALSE,500
+173,"Cooking Essentials","Sugarfree Gold Low Calorie Sweetner",65,6,3,61,110,FALSE,100
+174,"Cooking Essentials","Ching's Secret Paneer Chilli Masala",10,0,2,10,20,FALSE,20
+175,"Cooking Essentials","Dabur Honey ",220,7,3,204,500,FALSE,500
+176,"Cooking Essentials","Sunfeast Yippee! Pasta Treat - Sour Cream Onion",28,17,3,23,65,FALSE,65
+177,"Cooking Essentials","Everest Tea Masala",55,9,2,50,50,FALSE,50
+178,"Cooking Essentials","Ching's Paneer Chilli Masala",44,0,4,44,60,FALSE,60
+179,"Cooking Essentials","Sunfeast YiPPee! Magic Masala Noodles",70,10,3,63,405,FALSE,405
+180,"Cooking Essentials","Everest Meat Masala Powder",74,9,3,67,100,FALSE,100
+181,"Cooking Essentials","Pillsbury Atta With Multigrains Wheat Grains",295,16,6,245,5000,FALSE,5
+182,"Cooking Essentials","Mother's Recipe Tamarind Paste",50,2,6,49,200,FALSE,200
+183,"Cooking Essentials","Quaker Oats Breakfast Cereals - With Flavour Mix Nutritious Rich Source Of Energy",49,8,6,45,200,FALSE,200
+184,"Cooking Essentials","Popular Essentials Cloves (Lavang)",75,17,6,62,50,FALSE,50
+185,"Cooking Essentials","Sunfeast Yippee! Power Up Atta Noodles",96,15,6,81,280,FALSE,280
+186,"Cooking Essentials","Suhana Paneer Tikka Masala Mix",40,5,6,38,50,FALSE,50
+187,"Cooking Essentials","24 Mantra Turmeric Powder",35,2,6,34,100,FALSE,100
+188,"Cooking Essentials","24 Mantra Super Grain Quinoa",190,0,4,190,500,FALSE,500
+189,"Cooking Essentials","Everest Powder - Egg Curry Masala",40,2,6,39,50,FALSE,50
+190,"Cooking Essentials","Popular Essentials Pe Shah Jeera ",60,15,6,51,50,FALSE,50
+191,"Cooking Essentials","24 Mantra Organic Sattu Atta",95,0,6,95,500,FALSE,500
+192,"Cooking Essentials","Smith & Jones Pasta Masala",46,0,6,46,54,FALSE,54
+193,"Cooking Essentials","Weikfield Vanilla Custard Powder",142,9,3,128,500,FALSE,500
+194,"Cooking Essentials","Sugarfree Natura Low Calorie Sweetner ",300,10,3,270,42,FALSE,42
+195,"Cooking Essentials","Pillsbury Vanilla Custard Powder",37,2,6,36,100,FALSE,100
+196,"Cooking Essentials","24 Mantra Organic Rajma",145,0,6,145,500,FALSE,500
+197,"Cooking Essentials","Popular Essentials Broken Wheat/Daliya",35,2,6,34,500,FALSE,500
+198,"Cooking Essentials","Zorabian Chicken Smoked Ham",205,5,1,194,250,FALSE,250
+199,"Cooking Essentials","Smith & Jones Peri Peri Masala",99,0,6,99,75,FALSE,75
+200,"Cooking Essentials","Saffola Veggie Twist Masala Oats",195,12,2,171,500,FALSE,500
+201,"Cooking Essentials","Popular Essentials Urad Dal Split (Un-Polished)",85,9,5,77,500,FALSE,500
+202,"Cooking Essentials","Weikfield Baking Powder",22,0,6,22,50,FALSE,50
+203,"Cooking Essentials","Popular Essentials Bajra Whole",65,13,6,56,1000,FALSE,1
+204,"Cooking Essentials","Weikfield Veg Jelly Crystals - Strawberry",45,2,6,44,90,FALSE,90
+205,"Cooking Essentials","Weikfield Veg Jelly Crystals - Raspberry",45,2,6,44,90,FALSE,90
+206,"Cooking Essentials","Popular Essentials Masoor Dal Split (Un-Polished)",70,10,4,63,500,FALSE,500
+207,"Cooking Essentials","Popular Essentials Ajwain Whole",50,12,2,44,100,FALSE,100
+208,"Cooking Essentials","Popular Essentials Pista Salted (With Shell)",470,21,5,371,250,FALSE,250
+209,"Cooking Essentials","The Bake Shop Bread Crumbs",50,6,3,47,400,FALSE,400
+210,"Cooking Essentials","Popular Essentials Horse Gram",40,10,4,36,500,FALSE,500
+211,"Cooking Essentials","Hershey's Chocolate Syrup",95,0,4,95,200,FALSE,200
+212,"Cooking Essentials","Godrej Yummiez Chilli Chicken Sausages ",160,10,3,144,250,FALSE,250
+213,"Cooking Essentials","Everest Kasuri Methi",25,0,6,25,25,FALSE,25
+214,"Cooking Essentials","Satyam Makhana",208,0,6,208,100,FALSE,100
+215,"Cooking Essentials","Everest Tandoori Chicken Masala",39,2,5,38,50,FALSE,50
+216,"Cooking Essentials","Weikfield Falooda Mix - Kesar Pista",49,2,3,48,200,FALSE,200
+217,"Cooking Essentials","Weikfield Cocoa Powder",70,7,6,65,50,FALSE,50
+218,"Cooking Essentials","Pantai Coconut Cream",150,4,4,143,400,FALSE,400
+219,"Cooking Essentials","Popular Essentials Coriander Seeds",15,0,5,15,50,FALSE,50
+220,"Cooking Essentials","Ching's Singapore Curry Instant Noodles",60,0,4,60,240,FALSE,240
+221,"Cooking Essentials","Eastern Fish Masala",48,2,5,47,100,FALSE,100
+222,"Cooking Essentials","Pillsbury Atta/Godihittu - Chakki Fresh",275,0,6,275,5000,FALSE,5
+223,"Cooking Essentials","Oleev Smart Oil Fortified with VIT A, D, E & K (Pouch)",215,9,4,194,1000,FALSE,1
+224,"Cooking Essentials","Everest Dry Ginger Powder",75,9,4,68,100,FALSE,100
+225,"Cooking Essentials","Pillsbury Cooker Cake Mix - Choco",100,11,6,89,159,FALSE,159
+226,"Cooking Essentials","Hersheys Chocolate Almond Syrup",200,0,2,200,450,FALSE,450
+227,"Cooking Essentials","Satyam Nighties Spices  Chilli Pandi",56,7,5,52,100,FALSE,100
+228,"Cooking Essentials","Popular Essentials Popular Essential Pista Salted (With Shell)",190,10,6,171,100,FALSE,100
+229,"Cooking Essentials","Godrej Yummiez Chicken Punjabi Tikka ",295,9,6,266,360,FALSE,360
+230,"Cooking Essentials","Popular Essentials Rozana Sona Masuri Raw Rice",350,10,5,312,5000,FALSE,5
+231,"Cooking Essentials","24 Mantra Mustard Oil (Cold Pressed) ",350,10,6,312,1000,FALSE,1
+232,"Cooking Essentials","24 Mantra Organic Black Pepper",170,7,6,157,100,FALSE,100
+233,"Cooking Essentials","Popular Essentials Green Moong Whole",90,16,3,75,500,FALSE,500
+234,"Cooking Essentials","24 Mantra Organic Masoor Dal - Split",95,7,6,88,500,FALSE,500
+235,"Cooking Essentials","Praakritik Organic Natural Rock Salt",60,6,3,56,500,FALSE,500
+236,"Cooking Essentials","24 Mantra Sunflower Oil (Cold Pressed) Pet Bottle",390,11,5,347,1000,FALSE,1
+237,"Cooking Essentials","Ching's Secret Instant Noodles, Hot Garlic",60,0,4,60,240,FALSE,240
+238,"Cooking Essentials","Saffola Everyday Peppy Tomato Masala Oats",195,12,6,171,500,FALSE,500
+239,"Cooking Essentials","Dabur 100% Pure Honey - Worlds No.1",430,10,6,387,1000,FALSE,1
+240,"Cooking Essentials","Popular Essentials Star Anise",70,10,5,63,25,FALSE,25
+241,"Cooking Essentials","Ching's Secret Chicken 65 Masala - Chicken",10,0,5,10,20,FALSE,20
+242,"Cooking Essentials","Cadbury Cocoa Powder",223,5,6,211,150,FALSE,150
+243,"Cooking Essentials","Praakritik Natural Desi Gir Cow A2 Ghee",1450,10,6,1305,540,FALSE,540
+244,"Cooking Essentials","Praakritik Organic Poha",120,6,5,112,500,FALSE,500
+245,"Cooking Essentials","Praakritik Organic Natural Wild Forest Honey",160,6,4,150,200,FALSE,200
+246,"Cooking Essentials","Popular Essentials Dry Dates (Kharak)",140,15,6,118,250,FALSE,250
+247,"Cooking Essentials","Popular Essentials Kashmiri Red Rajma",95,6,4,89,500,FALSE,500
+248,"Cooking Essentials","Dabur Hommade - Garlic Paste",50,6,6,47,200,FALSE,200
+249,"Cooking Essentials","Dabur 100% Pure Honey",330,10,1,297,400,FALSE,400
+250,"Cooking Essentials","Ching's Schezwan Fried Rice(Miracle Masala)",44,0,5,44,60,FALSE,60
+251,"Cooking Essentials","Everest Tandoori Chicken Masala",74,9,3,67,100,FALSE,100
+252,"Cooking Essentials","Popular Essentials Red Poha",45,4,6,43,500,FALSE,500
+253,"Cooking Essentials","Everest Kitchen King Masala",142,9,6,128,200,FALSE,200
+254,"Cooking Essentials","Pillsbury Oven Cake Mix - Rich Chocolate",165,10,5,147,285,FALSE,285
+255,"Cooking Essentials","Eastern Super Garam Masala",74,6,2,69,200,FALSE,200
+256,"Cooking Essentials","Maggi Magic Cubes Extra Chicken",40,2,6,39,48,FALSE,48
+257,"Cooking Essentials","Satyam Nighties Spices  Chilli Kashmiri",102,6,6,95,100,FALSE,100
+258,"Cooking Essentials","Eastern Cumin Powder",49,2,6,48,100,FALSE,100
+259,"Cooking Essentials","Popular Essentials Urad Gola White(Un-Polished)",90,10,6,81,500,FALSE,500
+260,"Cooking Essentials","24 Mantra Organic Chana Dal",95,6,5,89,500,FALSE,500
+261,"Cooking Essentials","Delight Nuts Cashew Roasted & Salted",425,20,6,340,200,FALSE,200
+262,"Cooking Essentials","Popular Essentials Mace/Javitri",90,10,3,81,20,FALSE,20
+263,"Cooking Essentials","Dlicia Whip Topping Bottle",235,27,5,171,1000,FALSE,1
+264,"Cooking Essentials","Mother's Recipe Paste Ginger & Garlic",76,10,4,68,300,FALSE,300
+265,"Cooking Essentials","24 Mantra Groundnut Oil (Cold Pressed) Pet Bottle",410,10,6,369,1000,FALSE,1
+266,"Cooking Essentials","Satyam Pulses Masur Dal",87,6,6,81,500,FALSE,500
+267,"Cooking Essentials","Delight Nuts Pista Roasted & Salted",425,20,6,340,200,FALSE,200
+268,"Cooking Essentials","Top Ramen Noodles, Atta",80,0,1,80,280,FALSE,280
+269,"Cooking Essentials","Hershey's Cocoa Powder",95,0,5,95,70,FALSE,70
+270,"Cooking Essentials","Praakritik Organic Singhara Atta",240,6,4,225,500,FALSE,500
+271,"Cooking Essentials","Gits Veg Biryani Ready to Eat",110,10,6,99,265,FALSE,265
+272,"Cooking Essentials","Delight Nuts Cranberries Sliced ",299,20,6,239,200,FALSE,200
+273,"Cooking Essentials","Borges Durum Wheat Pasta Superior Quality",250,40,6,149,500,FALSE,500
+274,"Cooking Essentials","Ceres Foods Laal Maas Instant Liquid Masala",220,50,5,110,200,FALSE,200
+275,"Cooking Essentials","Popular Essentials Sattu Atta",90,12,3,79,500,FALSE,500
+276,"Cooking Essentials","Popular Essentials Mustard Seeds Rai Yellow",25,0,5,25,100,FALSE,100
+277,"Cooking Essentials","Praakritik Organic Extra Virgin Coconut Oil",150,10,5,134,100,FALSE,100
+278,"Cooking Essentials","Praakritik Organic Garlic Powder",110,1,5,108,100,FALSE,100
+279,"Cooking Essentials","Sugarfree Gold Low Calorie Sweetner ",125,5,6,118,100,FALSE,100
+280,"Cooking Essentials","Aashirvaad Breakfast Instant Mix - Rice Idli",75,30,6,52,200,FALSE,200
+281,"Cooking Essentials","Kitchens Of India Mutter Paneer",130,4,6,124,285,FALSE,285
+282,"Cooking Essentials","Ching's Secret Veg Manchurian Masala",44,0,6,44,60,FALSE,60
+283,"Cooking Essentials","Popular Essentials Jowa Flour",50,2,5,49,500,FALSE,500
+284,"Cooking Essentials","Everest Shahi Biryani Masala",245,0,6,245,200,FALSE,200
+285,"Cooking Essentials","Popular Essentials Black Til",50,6,4,47,100,FALSE,100
+286,"Cooking Essentials","Popular Essentials Pancharatna Dal",80,10,6,72,500,FALSE,500
+287,"Cooking Essentials","Saffola 100% Pure Honey",475,8,2,437,1000,FALSE,750
+288,"Cooking Essentials","Popular Essentials Tamarind",150,14,6,128,500,FALSE,500
+289,"Cooking Essentials","Gits Rice Dosa Instant Breakfast Mix",60,5,5,57,200,FALSE,200
+290,"Cooking Essentials","Popular Essentials Poppy Seeds (Gasagase)",280,7,6,260,100,FALSE,100
+291,"Cooking Essentials","Hershey's Hot Chocolate Powder",210,0,4,210,250,FALSE,250
+292,"Cooking Essentials","Borges Farfalle Durum Wheat Pasta ",250,0,5,250,500,FALSE,500
+293,"Cooking Essentials","Satyam Chilli  Bedgi",82,10,5,73,100,FALSE,100
+294,"Cooking Essentials","Aashirvaad Instant Mix - Rice Dosa",75,30,6,52,200,FALSE,200
+295,"Cooking Essentials","Hershey's Cocoa - Natural Unsweetened",270,10,4,243,225,FALSE,225
+296,"Cooking Essentials","Weikfield Veg Jelly Crystals - Mango",45,2,6,44,90,FALSE,90
+297,"Cooking Essentials","Praakritik Orrganic Cold Pressed Sesame Oil",130,10,5,117,100,FALSE,100
+298,"Cooking Essentials","Amulya Dairy Whitener ",380,2,4,372,1000,FALSE,1
+299,"Cooking Essentials","ITC Master Chef Hyderabadi Biryani",75,30,5,52,80,FALSE,80
+300,"Cooking Essentials","Flying Bird Butter Scotch Essence",50,2,6,49,20,FALSE,20
+301,"Cooking Essentials","Dabur Hommade - Ginger Paste",50,6,6,47,200,FALSE,200
+302,"Cooking Essentials","Popular Essentials Green Peas (Un-Polished)",120,10,5,108,500,FALSE,500
+303,"Cooking Essentials","Quaker Oats Pouch",276,10,6,248,1500,FALSE,1
+304,"Cooking Essentials","24 Mantra Organic Urad White Whole",145,15,4,122,500,FALSE,500
+305,"Cooking Essentials","Popular Essentials Guntur Chilli Stemless",40,2,2,39,100,FALSE,100
+306,"Cooking Essentials","Popular Essentials Moth Whole",90,10,6,81,500,FALSE,500
+307,"Cooking Essentials","Keya Pizza Seasoning",109,17,6,90,45,FALSE,45
+308,"Cooking Essentials","Keya Piri Piri | Exotic Spices Mix",109,20,6,87,80,FALSE,80
+309,"Cooking Essentials","24 Mantra Organic Moong Dal",135,7,6,125,500,FALSE,500
+310,"Cooking Essentials","Betty Crocker French Vanilla Cake Mix",310,10,6,276,520,FALSE,520
+311,"Cooking Essentials","Delight Nuts Dried Cranberries ",340,20,6,272,200,FALSE,200
+312,"Cooking Essentials","Everest Kesari Milk Masala",205,0,2,205,50,FALSE,50
+313,"Cooking Essentials","Tong Garden Salted Cocktail Nuts",295,9,5,266,160,FALSE,160
+314,"Cooking Essentials","MTR Uttapam Mix",165,5,6,156,500,FALSE,500
+315,"Cooking Essentials","Gits Khaman Dhokla Instant Snack Mix",65,6,6,61,180,FALSE,180
+316,"Cooking Essentials","Happilo Premium 100% Natural Whole Cashews",335,29,6,235,200,FALSE,200
+317,"Cooking Essentials","Everest Dry Mango Powder",80,0,5,80,100,FALSE,100
+318,"Cooking Essentials","Dabur Hommade - Ginger Garlic Past Tub",110,5,6,104,400,FALSE,400
+319,"Cooking Essentials","Everest Chicken Masala",147,10,6,132,200,FALSE,200
+320,"Cooking Essentials","Gits Medu Vada Instant Snack Mix",90,4,6,86,200,FALSE,200
+321,"Cooking Essentials","Weikfield Drinking Chocolate Powder",65,10,6,58,100,FALSE,100
+322,"Cooking Essentials","Popular Essentials Regular White Lobia",70,10,6,63,500,FALSE,500
+323,"Cooking Essentials","Puro Healthy Salt Crystal",135,7,6,125,1000,FALSE,1
+324,"Cooking Essentials","Popular Essentials Premium Jeera Rice",140,0,5,140,1000,FALSE,1
+325,"Cooking Essentials","Smith & Jones Shahi Paneer Masala Mix",44,0,6,44,60,FALSE,60
+326,"Cooking Essentials","Betty Crocker Mug Treats - Chocolate Mix - Pack of 4",200,11,6,178,264,FALSE,264
+327,"Cooking Essentials","Smith & Jones Pasta Masala",60,10,5,54,108,FALSE,108
+328,"Cooking Essentials","Catch Black Pepper Sprinkler",100,0,1,100,50,FALSE,50
+329,"Cooking Essentials","Weikfield Cooker Cake Mix - Chocolate",95,6,6,89,150,FALSE,150
+330,"Cooking Essentials","ITC Master Chef Butter Chicken",75,30,6,52,80,FALSE,80
+331,"Cooking Essentials","Masala Oats Masala & Coriander ",195,9,5,176,500,FALSE,500
+332,"Cooking Essentials","Smith & Jones Mutter Paneer Masala",42,0,6,42,60,FALSE,60
+333,"Cooking Essentials","Kitchens of India Dal Bukhara Gravy Mix",110,30,6,77,285,FALSE,285
+334,"Cooking Essentials","Popular Essentials Fried Gram (Bengal Gram)",70,10,6,63,500,FALSE,500
+335,"Cooking Essentials","Gits Jalebi with Maker Dessert Mix",75,16,6,63,100,FALSE,100
+336,"Cooking Essentials","Popular Essentials Soya Beans ",80,6,6,75,500,FALSE,500
+337,"Cooking Essentials","24 Mantra Organic Roasted Bengal Gram Dal",105,7,6,97,500,FALSE,500
+338,"Cooking Essentials","Keya Italian Seasoning",109,10,6,98,35,FALSE,35
+339,"Cooking Essentials","MTR Idli/Dosa/Chilly Chutney Powder",115,0,3,115,200,FALSE,200
+340,"Cooking Essentials","Delight Nuts Trail Mix ",399,25,6,299,200,FALSE,200
+341,"Cooking Essentials","Praakritik Organic Chilka Moong Dal",120,10,6,108,500,FALSE,500
+342,"Cooking Essentials","Smith & Jones Garlic & Herbs Masala Mix",99,0,6,99,75,FALSE,75
+343,"Cooking Essentials","Eastern Tamarind",63,0,6,63,200,FALSE,200
+344,"Cooking Essentials","Tong Garden Wasabi Coated Greenpeas Tin",200,11,6,178,180,FALSE,180
+345,"Cooking Essentials","Flying Bird Pineapple Artifical Food Essence",50,2,6,49,20,FALSE,20
+346,"Cooking Essentials","Mother's Recipe Tamarind Paste",50,2,2,49,200,FALSE,200
+347,"Cooking Essentials","Japanese Choice Udon Noodles",295,9,6,266,250,FALSE,250
+348,"Cooking Essentials","Pantai Coconut Milk",150,0,4,150,400,FALSE,400
+349,"Cooking Essentials","Praakritik Organic Masoor Dal",130,10,6,116,500,FALSE,500
+350,"Cooking Essentials","Popular Essentials Classic Sona Masuri Rice",430,10,6,387,5000,FALSE,5
+351,"Cooking Essentials","Popular Essentials Salted Murmure ",70,18,6,57,400,FALSE,400
+352,"Cooking Essentials","Oleev Active Oil (Pouch)",265,9,6,239,1000,FALSE,1
+353,"Cooking Essentials","Delight Nuts Dried Blueberries ",540,20,6,432,150,FALSE,150
+354,"Cooking Essentials","Popular Essentials Double Beans White",60,10,6,54,250,FALSE,250
+355,"Cooking Essentials","Delight Nuts Almond Natural ",349,20,6,279,200,FALSE,200
+356,"Cooking Essentials","Praakritik Organic Jaggery",160,6,6,150,900,FALSE,900
+357,"Cooking Essentials","Praakritik Organic Raw Sugar",90,6,6,84,500,FALSE,500
+358,"Cooking Essentials","MTR Masala - Sambar Powder",115,0,4,115,200,FALSE,200
+359,"Cooking Essentials","RRO Til Dil Premium Til Oil Bottle",173,6,6,162,500,FALSE,500
+360,"Cooking Essentials","ITC Master Chef Vegetable Biryani Cooking Paste",75,30,5,52,80,FALSE,80
+361,"Cooking Essentials","Jivana Jaggery",100,0,2,100,950,FALSE,950
+362,"Cooking Essentials","Praakritik Organic Besan",170,6,6,159,500,FALSE,500
+363,"Cooking Essentials","MTR Instant Gulab Jamun Mix",195,9,6,176,500,FALSE,500
+364,"Cooking Essentials","Maggi Magic Cubes Extra Chicken",199,0,2,199,240,FALSE,240
+365,"Cooking Essentials","On1y Mixed Herbs",99,0,6,99,14,FALSE,14
+366,"Cooking Essentials","Popular Essentials Urad Gola Black (Un-Polished)",80,10,6,72,500,FALSE,500
+367,"Cooking Essentials","Gits Dessert Mix China Grass Bombay Halwa",55,0,4,55,80,FALSE,80
+368,"Cooking Essentials","Praakritik Organic Basmati Rice",170,0,5,170,500,FALSE,500
+369,"Cooking Essentials","Ceres Foods Nalli Nihari Instant Liquid Masala",220,50,6,110,200,FALSE,200
+370,"Cooking Essentials","Borges Canola Oil Pet Bottle",399,0,6,399,1000,FALSE,1
+371,"Cooking Essentials","Suhana Biryani Masala",66,0,6,66,50,FALSE,50
+372,"Cooking Essentials","On1y Black Salt Grinder",99,0,6,99,100,FALSE,100
+373,"Cooking Essentials","Popular Essentials Nylon Til",40,2,6,39,100,FALSE,100
+374,"Cooking Essentials","Pillsbury Rich Choco Oven Cake Mix - Egg Free",170,6,6,159,270,FALSE,270
+375,"Cooking Essentials","Weikfield Tomato Salsa Instant Pasta",25,0,1,25,77,FALSE,77
+376,"Cooking Essentials","Praakritik Organic Jowar Atta",110,6,6,103,500,FALSE,500
+377,"Cooking Essentials","Sugarfree Gold Low Calorie Sweetner ",270,7,6,251,50,FALSE,50
+378,"Cooking Essentials","Epicurea Thai Jasmine Rice",295,0,4,295,500,FALSE,500
+379,"Cooking Essentials","Yummiez Chicken Garlic Fingers Pouch",250,0,5,250,400,FALSE,400
+380,"Cooking Essentials","RRO Primio Refined Groundnut (Jar)",490,11,6,436,2000,FALSE,2
+381,"Cooking Essentials","Praakritik Organic Tuvar Dal",140,0,6,140,500,FALSE,500
+382,"Cooking Essentials","Sugarfree Gold Low Calorie Sweetner",185,5,3,175,300,FALSE,300
+383,"Cooking Essentials","Cantina Beans Mexican Beans",250,14,6,213,410,FALSE,410
+384,"Cooking Essentials","Pillsbury Oven Cake Mix - Vanilla",175,10,6,156,225,FALSE,225
+385,"Cooking Essentials","Hershey's Chocolate Milk Booster",200,0,6,200,450,FALSE,450
+386,"Cooking Essentials","Popular Essentials Byadagi Chilli Stemless",80,0,6,80,100,FALSE,100
+387,"Cooking Essentials","Suhana Spice Mix - Chicken Biryani",66,0,6,66,50,FALSE,50
+388,"Cooking Essentials","Praakritik Organic Yellow Moon Dal",135,0,6,135,500,FALSE,500
+389,"Cooking Essentials","Maggi Magic Cubes Extra Chicken",199,10,6,179,240,FALSE,240
+390,"Cooking Essentials","Dhara Filtered Groundnut Oil (Jar)",1050,0,2,1050,5000,FALSE,5
+391,"Cooking Essentials","24 Mantra Sona Masuri Brown Rice",475,10,6,423,5000,FALSE,5
+392,"Cooking Essentials","24 Mantra Organic Pancharatna Dal - Split",130,7,6,120,500,FALSE,500
+393,"Cooking Essentials","24 Mantra Organic Cumin Powder",70,0,6,70,100,FALSE,100
+394,"Cooking Essentials","Popular Essentials Samba Broken Wheat",100,11,6,89,500,FALSE,500
+395,"Cooking Essentials","Betty Crocker Chocolate Fudge Cake Mix",295,0,6,295,475,FALSE,475
+396,"Cooking Essentials","Borges Extra Light Olive Oil Bottle ",2600,46,6,1399,2000,FALSE,2
+397,"Cooking Essentials","Flying Bird Premium Orange Artificial Food Essence",60,0,6,60,20,FALSE,20
+398,"Cooking Essentials","Popular Essentials Red Cherry/Gundu Chilli",95,0,6,95,100,FALSE,100
+399,"Cooking Essentials","Super Saver Kolam Rice Sortex Clean ",700,10,3,630,5000,FALSE,5
+400,"Cooking Essentials","Flying Bird Food Essence - Kewra",50,0,6,50,20,FALSE,20
+401,"Cooking Essentials","MTR Vada Breakfast",200,0,1,200,500,FALSE,500
+402,"Cooking Essentials","On1y Pasta Seasoning",99,0,6,99,30,FALSE,30
+403,"Cooking Essentials","Praakritik Organic Indrayani Rice",70,0,6,70,500,FALSE,500
+404,"Cooking Essentials","On1y Pizza Seasoning",99,0,6,99,28,FALSE,28
+405,"Cooking Essentials","Kitchens of India Mutter Paneer Mix",120,30,4,84,285,FALSE,285
+406,"Cooking Essentials","Aashirvaad Svasti Cow Ghee Tetra Pack",295,0,6,295,500,FALSE,500
+407,"Cooking Essentials","Weikfield Cooker Cake Mix - Vanilla",95,0,6,95,150,FALSE,150
+408,"Cooking Essentials","Praakritik Organic Kapli Wheat Atta",165,10,6,147,1000,FALSE,1
+409,"Cooking Essentials","Epicurea Sushi Rice",295,0,6,295,500,FALSE,500
+410,"Cooking Essentials","Sugarfree Natural Green Stevia Leaves Zero Calorie",75,0,2,75,100,FALSE,100
+411,"Cooking Essentials","Smith & Jones Italian Spices Masala Mix",99,0,6,99,75,FALSE,75
+412,"Cooking Essentials","Satyam Nighties Spices  Chilli Bore",89,10,6,80,100,FALSE,100
+413,"Cooking Essentials","Weikfield Veg Jelly Crystals - Orange",45,2,6,44,90,FALSE,90
+414,"Cooking Essentials","Praakritik Organic Jumbo Rolled Oats",190,11,6,169,500,FALSE,500
+415,"Cooking Essentials","On1y Sea Salt Grinder",89,0,6,89,100,FALSE,100
+416,"Cooking Essentials","Delight Nuts Berries Mix ",399,20,6,319,200,FALSE,200
+417,"Cooking Essentials","Everest Kesari Milk Masala",205,0,6,205,50,FALSE,20
+418,"Cooking Essentials","Praakritik Organic Ginger Powder",139,10,6,125,100,FALSE,100
+419,"Cooking Essentials","Suhana Mutton Gravy Mix",45,0,4,45,80,FALSE,80
+420,"Cooking Essentials","On1y Salad Seasoning Grinder",139,0,6,139,45,FALSE,45
+421,"Cooking Essentials","Fortune Sunlite Refined Sunflower (Jar)",925,0,6,925,5000,FALSE,5
+422,"Cooking Essentials","Fortune Rice Bran (Pouch)",225,11,6,199,1000,FALSE,1
+423,"Cooking Essentials","Saffola Active Oil",210,0,6,210,1000,FALSE,1
+424,"Cooking Essentials","Amul Pure Ghee (Pouch)",505,1,2,499,1000,FALSE,1
+425,"Cooking Essentials","Aashirvaad Atta",460,13,6,399,10000,FALSE,10
+426,"Cooking Essentials","Popular Essentials Toor Dal (Un-Polished)",160,6,4,149,1000,FALSE,1
+427,"Cooking Essentials","Amul Ghee (Tin)",520,2,6,509,1000,FALSE,1
+428,"Cooking Essentials","Amul Fresh Cream",197,3,3,191,1000,FALSE,1
+429,"Cooking Essentials","Popular Essentials Pure Jaggery",50,2,6,49,450,FALSE,450
+430,"Cooking Essentials","Aashirvaad Multigrain Atta",64,3,2,62,1000,FALSE,1
+431,"Cooking Essentials","Fortune Soyabean Oil",1005,0,6,999,5000,FALSE,5
+432,"Cooking Essentials","Popular Essentials Sunflower Seeds",25,0,6,25,50,FALSE,50
+433,"Cooking Essentials","Tata Sampann kabuli chana",185,1,4,183,1000,FALSE,500
+434,"Cooking Essentials","Dhara Groundnut Oil (Pouch)",230,11,6,203,1000,FALSE,1
+435,"Cooking Essentials","Dhara Health Refined Sun Flower Oil Jar",1200,18,6,984,5000,FALSE,5
+436,"Cooking Essentials","24 Mantra Organic Jaggery Powder",80,15,6,68,500,FALSE,500
+437,"Cooking Essentials","Tata Sampann High Protien Kabuli Chana",94,0,1,94,500,FALSE,500
+438,"Cooking Essentials","Dhara Kachi Ghani Mustard Oil Jar",1250,8,6,1143,5000,FALSE,5
+439,"Cooking Essentials","D'lecta Dairy Cream",54,5,6,51,200,FALSE,200
+440,"Cooking Essentials","Ching's Secret Instant Hot Garlic Noodles",15,0,3,15,60,FALSE,60
+441,"Cooking Essentials","Dabur Ginger Garlic Paste",25,8,3,23,100,FALSE,100
+442,"Cooking Essentials","Ching's Secret Instant Schezwan Noodles",15,0,6,15,60,FALSE,60
+443,"Cooking Essentials","Gowardhan Ghee/Tuppa Jar",315,1,6,309,500,FALSE,500
+444,"Cooking Essentials","Tata Sampann Unpolished Moong Dal ",92,4,4,88,500,FALSE,500
+445,"Cooking Essentials","Aashirvaad Select Atta",64,0,6,64,1000,FALSE,1
+446,"Cooking Essentials","Popular Essentials Misri Dana (Diamond Sugar) ",15,0,4,15,100,FALSE,100
+447,"Cooking Essentials","Gowardhan Ghee Jar",598,3,6,579,1000,FALSE,1
+448,"Cooking Essentials","Top Ramen  Noodles Curry Veg Pouch",20,0,1,20,70,FALSE,70
+449,"Cooking Essentials","Popular Essentials Refined Sugar",60,0,6,60,1000,FALSE,1
+450,"Cooking Essentials","Fortune Kachi Ghani Mustard Oil Bottle",216,7,6,199,1000,FALSE,1
+451,"Cooking Essentials","Saffola Veggie Twist Masala Oats",15,0,6,15,38,FALSE,38
+452,"Cooking Essentials","Satyam Puffed Rice Kurmura (R)",23,0,6,23,200,FALSE,200
+453,"Cooking Essentials","Quaker Oats",79,0,2,79,400,FALSE,400
+454,"Cooking Essentials","Aashirvaad Select Sharbati Atta",315,10,6,283,5000,FALSE,5
+455,"Cooking Essentials","Popular Essentials Refined Sugar",295,10,6,265,5000,FALSE,5
+456,"Cooking Essentials","Gowardhan Cow Ghee Pouch",579,10,6,521,1000,FALSE,1
+457,"Cooking Essentials","Dhara Nourish Refined Sunflower Oil Pouch",210,5,6,199,1000,FALSE,1
+458,"Cooking Essentials","Parachute Oil ",40,7,3,37,100,FALSE,100
+459,"Cooking Essentials","Popular Essentials Plain Puffed Rice (Murmura/Muri)",18,0,6,18,100,FALSE,100
+460,"Cooking Essentials","Amul Mithai Mate Condensed Sweetened Milk",56,3,4,54,200,FALSE,200
+461,"Cooking Essentials","Saffola Gold (Jar)",1240,0,6,1240,5000,FALSE,5
+462,"Cooking Essentials","McCain New Mini Samosa with Cheese Pizza Style Filling",120,1,3,118,240,FALSE,240
+463,"Cooking Essentials","Fortune Rice Bran Health Oil (Jar)",1050,1,6,1039,5000,FALSE,5
+464,"Cooking Essentials","Arden Desi Eggs",110,13,4,95,348,FALSE,6
+465,"Cooking Essentials","Fortune Rozana Basmati Rice",585,21,6,462,5000,FALSE,5
+466,"Cooking Essentials","Fortune Biriyani Special Basmati Rice",175,0,5,175,1000,FALSE,1
+467,"Cooking Essentials","Everest Garam Masala",78,7,5,72,100,FALSE,100
+468,"Cooking Essentials","Popular Essentials Pumpkin Seeds",90,16,6,75,100,FALSE,100
+469,"Cooking Essentials","Fortune Soya Health Refined Soybean Oil",210,1,2,206,1000,FALSE,1
+470,"Cooking Essentials","Gowardhan Pure Ghee Pouch",295,4,6,281,500,FALSE,500
+471,"Cooking Essentials","Popular Essentials Jeera/Cumin Seeds",40,5,3,38,100,FALSE,100
+472,"Cooking Essentials","Weikfield Baking Soda",30,3,6,29,100,FALSE,100
+473,"Cooking Essentials","Everest Pav Bhaji Masala",37,10,4,33,50,FALSE,50
+474,"Cooking Essentials","Tata Sampann Unpolished Chana Dal",95,6,2,89,1000,FALSE,500
+475,"Cooking Essentials","Amul Mithai Mate EOE Tin",112,2,6,109,400,FALSE,400
+476,"Cooking Essentials","Pillsbury Chakki Fresh Atta",450,16,6,375,10000,FALSE,10
+477,"Cooking Essentials","Everest Chicken Masala",39,2,1,38,50,FALSE,50
+478,"Cooking Essentials","Dhara Life Refined Ricebran Oil (Pouch)",205,7,6,190,1000,FALSE,1
+479,"Cooking Essentials","Borges Extra Virgin Olive Oil",400,25,1,299,250,FALSE,250
+480,"Cooking Essentials","Everest Shahi Biryani Masala",70,14,6,60,50,FALSE,50
+481,"Cooking Essentials","Popular Essentials Californian Almond",350,28,6,251,250,FALSE,250
+482,"Cooking Essentials","Popular Essentials Ajwain Whole",25,0,4,25,50,FALSE,50
+483,"Cooking Essentials","Everest Tikhalal Chilli Powder",235,9,6,212,500,FALSE,500
+484,"Cooking Essentials","Popular Essentials Kabuli Chana Regular",85,9,6,77,500,FALSE,500
+485,"Cooking Essentials","Pillsbury Chakki Fresh Atta",52,0,4,52,1000,FALSE,1
+486,"Cooking Essentials","Popular Essentials Saunf/Fennel Seeds",45,2,6,44,100,FALSE,100
+487,"Cooking Essentials","Popular Essentials Bansi Sooji",35,2,3,34,500,FALSE,500
+488,"Cooking Essentials","Happilo Premium International Queen Kalmi Dates",245,29,6,172,200,FALSE,200
+489,"Cooking Essentials","Tata Sampann Unpolished Urad Whole",101,6,4,94,500,FALSE,500
+490,"Cooking Essentials","Popular Essentials Cashew Split",325,12,6,283,250,FALSE,250
+491,"Cooking Essentials","Popular Essentials Chana Dal (Un-Polished)",60,10,6,54,500,FALSE,500
+492,"Cooking Essentials","Tata Sampann Unpolished Rajma (Chitra)",134,6,6,125,500,FALSE,500
+493,"Cooking Essentials","Everest Garam Masala",42,2,2,41,50,FALSE,50
+494,"Cooking Essentials","Everest Kitchen King Masala",70,14,2,60,100,FALSE,100
+495,"Cooking Essentials","24 Mantra Organic Cumin",70,7,2,65,100,FALSE,100
+496,"Cooking Essentials","Nestle Milkmaid",132,3,6,128,400,FALSE,400
+497,"Cooking Essentials","Popular Essentials Sona Masouri Steam Rice",65,9,6,59,1000,FALSE,1
+498,"Cooking Essentials","24 Mantra Organic Tur Dal",260,20,6,208,1000,FALSE,1
+499,"Cooking Essentials","Gits Gulab Jamun Instant Dessert Mix",99,10,6,89,200,FALSE,200
+500,"Cooking Essentials","Popular Essentials Black Masoor Whole (Un-Polished)",65,10,3,58,500,FALSE,500
+501,"Cooking Essentials","24 Mantra Organic Peanuts",135,7,1,125,500,FALSE,500
+502,"Cooking Essentials","Everest Hingraj Powder",90,10,2,81,50,FALSE,50
+503,"Cooking Essentials","Everest Black Pepper Powder",135,14,6,115,100,FALSE,100
+504,"Cooking Essentials","Tata Sampann Masoor Dal Stand",150,10,4,134,1000,FALSE,1
+505,"Cooking Essentials","24 Mantra Organic Besan",95,7,5,88,500,FALSE,500
+506,"Cooking Essentials","Quaker Oats",199,7,6,184,1000,FALSE,1
+507,"Cooking Essentials","Saffola Gold Refined Cooking Oil (Jar)",485,7,6,449,2000,FALSE,2
+508,"Cooking Essentials","Nestle Everyday Dairy Whitener",210,0,4,210,400,FALSE,400
+509,"Cooking Essentials","24 Mantra Organic Red Poha",75,8,1,69,500,FALSE,500
+510,"Cooking Essentials","Everest Powder - Tea Masala",98,9,5,89,100,FALSE,100
+511,"Cooking Essentials","Tata Sampann Urad Dal Split",94,4,6,90,500,FALSE,500
+512,"Cooking Essentials","Popular Essentials Idli Sooji ",30,6,6,28,500,FALSE,500
+513,"Cooking Essentials","Popular Essentials Dessicated Coconut",95,9,6,86,200,FALSE,200
+514,"Cooking Essentials","Sunfeast Yippee! Mood Masala Noodles",60,28,3,43,260,FALSE,260
+515,"Cooking Essentials","Chef's Basket Durum Wheat Elbow Pasta",160,50,6,80,500,FALSE,500
+516,"Cooking Essentials","MTR Breakfast Khatta Meetha Poha Mix",25,20,6,20,60,FALSE,60
+517,"Cooking Essentials","Satyam Khobra",113,10,5,101,200,FALSE,200
+518,"Cooking Essentials","Betty Crocker Complete Pancake Mix Original",110,4,6,105,250,FALSE,500
+519,"Cooking Essentials","Borges Durum Wheat Fusilli Pasta ",250,0,3,250,500,FALSE,500
+520,"Cooking Essentials","24 Mantra Organic Green Moong Dal - Split",135,0,2,135,500,FALSE,500
+521,"Cooking Essentials","Weikfield Vanilla Flavoured Custard Powder",37,0,6,37,100,FALSE,100
+522,"Cooking Essentials","Tata Sampann Moong Dal Split",180,1,5,178,1000,FALSE,200
+523,"Cooking Essentials","Tata Sampann Kala Chana",64,0,5,64,500,FALSE,500
+524,"Cooking Essentials","Saffola Soya Chunks Mealmaker",50,0,2,50,200,FALSE,200
+525,"Cooking Essentials","24 Mantra Bura Sugar (Demerara)",80,10,6,72,500,FALSE,500
+526,"Cooking Essentials","Popular Essentials Green Cardamom (Elaichi)",200,1,6,198,50,FALSE,50
+527,"Cooking Essentials","Hershey's Syrup Delicious Strawberry",95,0,1,95,200,FALSE,200
+528,"Cooking Essentials","Popular Essentials Anjeer",190,11,4,169,100,FALSE,100
+529,"Cooking Essentials","Popular Essentials Mustard Seeds Rai Small",20,0,2,20,100,FALSE,100
+530,"Cooking Essentials","Weikfield Baking Powder",33,3,6,32,100,FALSE,100
+531,"Cooking Essentials","Dabur Honey Squeezy",185,9,6,167,225,FALSE,225
+532,"Cooking Essentials","Tata Sampann High Protein Kali Urad",91,14,6,78,500,FALSE,500
+533,"Cooking Essentials","Everest Kitchen King Masala",37,2,6,36,50,FALSE,50
+534,"Cooking Essentials","Chef's Basket Durum Wheat Fusilli Pasta",160,50,6,80,500,FALSE,500
+535,"Cooking Essentials","TilSona Til Oil",180,10,2,162,500,FALSE,500
+536,"Cooking Essentials","Top Ramen Chicken Noodles",60,10,1,54,280,FALSE,280
+537,"Cooking Essentials","Everest Chaat Masala",35,2,1,34,50,FALSE,50
+538,"Cooking Essentials","Keya Wonder Red Hot Chilli Flakes",89,10,2,80,40,FALSE,40
+539,"Cooking Essentials","Popular Essentials White Peas (Un-Polished)",80,10,5,72,500,FALSE,500
+540,"Cooking Essentials","Chingâ€™s Secret Chowmein Hakka Noodles Masala ",44,0,2,44,60,FALSE,60
+541,Munchies,"Gowardhan Cow Ghee Pouch",579,10,6,521,1000,FALSE,1
+542,Munchies,"Dhara Nourish Refined Sunflower Oil Pouch",210,5,6,199,1000,FALSE,1
+543,Munchies,"Parachute Oil ",40,7,3,37,100,FALSE,100
+544,Munchies,"Popular Essentials Plain Puffed Rice (Murmura/Muri)",18,0,6,18,100,FALSE,100
+545,Munchies,"Amul Mithai Mate Condensed Sweetened Milk",56,3,4,54,200,FALSE,200
+546,Munchies,"Saffola Gold (Jar)",1240,0,6,1240,5000,FALSE,5
+547,Munchies,"McCain New Mini Samosa with Cheese Pizza Style Filling",120,1,3,118,240,FALSE,240
+548,Munchies,"Fortune Rice Bran Health Oil (Jar)",1050,1,6,1039,5000,FALSE,5
+549,Munchies,"Arden Desi Eggs",110,13,4,95,348,FALSE,6
+550,Munchies,"Fortune Rozana Basmati Rice",585,21,6,462,5000,FALSE,5
+551,Munchies,"Fortune Biriyani Special Basmati Rice",175,0,5,175,1000,FALSE,1
+552,Munchies,"Everest Garam Masala",78,7,5,72,100,FALSE,100
+553,Munchies,"Popular Essentials Pumpkin Seeds",90,16,6,75,100,FALSE,100
+554,Munchies,"Fortune Soya Health Refined Soybean Oil",210,1,2,206,1000,FALSE,1
+555,Munchies,"Gowardhan Pure Ghee Pouch",295,4,6,281,500,FALSE,500
+556,Munchies,"Popular Essentials Jeera/Cumin Seeds",40,5,3,38,100,FALSE,100
+557,Munchies,"Weikfield Baking Soda",30,3,6,29,100,FALSE,100
+558,Munchies,"Everest Pav Bhaji Masala",37,10,4,33,50,FALSE,50
+559,Munchies,"Tata Sampann Unpolished Chana Dal",95,6,2,89,1000,FALSE,500
+560,Munchies,"Amul Mithai Mate EOE Tin",112,2,6,109,400,FALSE,400
+561,Munchies,"Pillsbury Chakki Fresh Atta",450,16,6,375,10000,FALSE,10
+562,Munchies,"Everest Chicken Masala",39,2,1,38,50,FALSE,50
+563,Munchies,"Dhara Life Refined Ricebran Oil (Pouch)",205,7,6,190,1000,FALSE,1
+564,Munchies,"Borges Extra Virgin Olive Oil",400,25,1,299,250,FALSE,250
+565,Munchies,"Everest Shahi Biryani Masala",70,14,6,60,50,FALSE,50
+566,Munchies,"Popular Essentials Californian Almond",350,28,6,251,250,FALSE,250
+567,Munchies,"Popular Essentials Ajwain Whole",25,0,4,25,50,FALSE,50
+568,Munchies,"Everest Tikhalal Chilli Powder",235,9,6,212,500,FALSE,500
+569,Munchies,"Popular Essentials Kabuli Chana Regular",85,9,6,77,500,FALSE,500
+570,Munchies,"Pillsbury Chakki Fresh Atta",52,0,4,52,1000,FALSE,1
+571,Munchies,"Popular Essentials Saunf/Fennel Seeds",45,2,6,44,100,FALSE,100
+572,Munchies,"Popular Essentials Bansi Sooji",35,2,3,34,500,FALSE,500
+573,Munchies,"Happilo Premium International Queen Kalmi Dates",245,29,6,172,200,FALSE,200
+574,Munchies,"Tata Sampann Unpolished Urad Whole",101,6,4,94,500,FALSE,500
+575,Munchies,"Popular Essentials Cashew Split",325,12,6,283,250,FALSE,250
+576,Munchies,"Popular Essentials Chana Dal (Un-Polished)",60,10,6,54,500,FALSE,500
+577,Munchies,"Tata Sampann Unpolished Rajma (Chitra)",134,6,6,125,500,FALSE,500
+578,Munchies,"Everest Garam Masala",42,2,2,41,50,FALSE,50
+579,Munchies,"Everest Kitchen King Masala",70,14,2,60,100,FALSE,100
+580,Munchies,"24 Mantra Organic Cumin",70,7,2,65,100,FALSE,100
+581,Munchies,"Nestle Milkmaid",132,3,6,128,400,FALSE,400
+582,Munchies,"Popular Essentials Sona Masouri Steam Rice",65,9,6,59,1000,FALSE,1
+583,Munchies,"24 Mantra Organic Tur Dal",260,20,6,208,1000,FALSE,1
+584,Munchies,"Gits Gulab Jamun Instant Dessert Mix",99,10,6,89,200,FALSE,200
+585,Munchies,"Popular Essentials Black Masoor Whole (Un-Polished)",65,10,3,58,500,FALSE,500
+586,Munchies,"24 Mantra Organic Peanuts",135,7,1,125,500,FALSE,500
+587,Munchies,"Everest Hingraj Powder",90,10,2,81,50,FALSE,50
+588,Munchies,"Everest Black Pepper Powder",135,14,6,115,100,FALSE,100
+589,Munchies,"Tata Sampann Masoor Dal Stand",150,10,4,134,1000,FALSE,1
+590,Munchies,"24 Mantra Organic Besan",95,7,5,88,500,FALSE,500
+591,Munchies,"Quaker Oats",199,7,6,184,1000,FALSE,1
+592,Munchies,"Saffola Gold Refined Cooking Oil (Jar)",485,7,6,449,2000,FALSE,2
+593,Munchies,"Nestle Everyday Dairy Whitener",210,0,4,210,400,FALSE,400
+594,Munchies,"24 Mantra Organic Red Poha",75,8,1,69,500,FALSE,500
+595,Munchies,"Everest Powder - Tea Masala",98,9,5,89,100,FALSE,100
+596,Munchies,"Tata Sampann Urad Dal Split",94,4,6,90,500,FALSE,500
+597,Munchies,"Popular Essentials Idli Sooji ",30,6,6,28,500,FALSE,500
+598,Munchies,"Popular Essentials Dessicated Coconut",95,9,6,86,200,FALSE,200
+599,Munchies,"Sunfeast Yippee! Mood Masala Noodles",60,28,3,43,260,FALSE,260
+600,Munchies,"Chef's Basket Durum Wheat Elbow Pasta",160,50,6,80,500,FALSE,500
+601,Munchies,"MTR Breakfast Khatta Meetha Poha Mix",25,20,6,20,60,FALSE,60
+602,Munchies,"Satyam Khobra",113,10,5,101,200,FALSE,200
+603,Munchies,"Betty Crocker Complete Pancake Mix Original",110,4,6,105,250,FALSE,500
+604,Munchies,"Borges Durum Wheat Fusilli Pasta ",250,0,3,250,500,FALSE,500
+605,Munchies,"24 Mantra Organic Green Moong Dal - Split",135,0,2,135,500,FALSE,500
+606,Munchies,"Weikfield Vanilla Flavoured Custard Powder",37,0,6,37,100,FALSE,100
+607,Munchies,"Tata Sampann Moong Dal Split",180,1,5,178,1000,FALSE,200
+608,Munchies,"Tata Sampann Kala Chana",64,0,5,64,500,FALSE,500
+609,Munchies,"Saffola Soya Chunks Mealmaker",50,0,2,50,200,FALSE,200
+610,Munchies,"24 Mantra Bura Sugar (Demerara)",80,10,6,72,500,FALSE,500
+611,Munchies,"Popular Essentials Green Cardamom (Elaichi)",200,1,6,198,50,FALSE,50
+612,Munchies,"Hershey's Syrup Delicious Strawberry",95,0,1,95,200,FALSE,200
+613,Munchies,"Popular Essentials Anjeer",190,11,4,169,100,FALSE,100
+614,Munchies,"Popular Essentials Mustard Seeds Rai Small",20,0,2,20,100,FALSE,100
+615,Munchies,"Weikfield Baking Powder",33,3,6,32,100,FALSE,100
+616,Munchies,"Dabur Honey Squeezy",185,9,6,167,225,FALSE,225
+617,Munchies,"Tata Sampann High Protein Kali Urad",91,14,6,78,500,FALSE,500
+618,Munchies,"Everest Kitchen King Masala",37,2,6,36,50,FALSE,50
+619,Munchies,"Chef's Basket Durum Wheat Fusilli Pasta",160,50,6,80,500,FALSE,500
+620,Munchies,"TilSona Til Oil",180,10,2,162,500,FALSE,500
+621,Munchies,"Dabur Honey ",220,7,3,204,500,FALSE,500
+622,Munchies,"Top Ramen Chicken Noodles",60,10,1,54,280,FALSE,280
+623,Munchies,"Everest Chaat Masala",35,2,1,34,50,FALSE,50
+624,Munchies,"Keya Wonder Red Hot Chilli Flakes",89,10,2,80,40,FALSE,40
+625,Munchies,"Sunfeast Yippee! Pasta Treat - Sour Cream Onion",28,17,3,23,65,FALSE,65
+626,Munchies,"Everest Tea Masala",55,9,2,50,50,FALSE,50
+627,Munchies,"Ching's Paneer Chilli Masala",44,0,4,44,60,FALSE,60
+628,Munchies,"Popular Essentials White Peas (Un-Polished)",80,10,5,72,500,FALSE,500
+629,Munchies,"Chingâ€™s Secret Chowmein Hakka Noodles Masala ",44,0,2,44,60,FALSE,60
+630,Munchies,"Dhara Filtered Groundnut Oil (Jar)",1050,1,6,1035,5000,FALSE,5
+631,Munchies,"Pillsbury Choco Chip Pancake Mix",99,5,6,94,165,FALSE,165
+632,Munchies,"Hershey's Caramel Syrup",230,0,1,230,623,FALSE,623
+633,Munchies,"Sunfeast YiPPee! Magic Masala Noodles",70,10,3,63,405,FALSE,405
+634,Munchies,"Pillsbury Multi Grain Atta",60,6,3,56,1000,FALSE,1
+635,Munchies,"McCain New Mini Samosa with Cheese Corn Style Filling",120,1,2,118,240,FALSE,240
+636,Munchies,"Satyam Puffed Rice Kurmura (A)",43,0,6,43,200,FALSE,200
+637,Munchies,"MTR 3 Min Poha",25,0,6,25,60,FALSE,60
+638,Munchies,"Ching's Manchurian Instant Noodles",15,0,5,15,60,FALSE,60
+639,Munchies,"Everest Pav Bhaji Masala",70,0,2,70,100,FALSE,100
+640,Munchies,"Hershey's Chocolate Flavour Syrup",220,6,6,205,623,FALSE,680
+641,Munchies,"Popular Essentials Dhania (Coriander Seeds)",55,16,4,46,200,FALSE,200
+642,Munchies,"Everest Meat Masala Powder",74,9,3,67,100,FALSE,100
+643,Munchies,"Pillsbury Atta With Multigrains Wheat Grains",295,16,6,245,5000,FALSE,5
+644,Munchies,"24 Mantra Red Chilly Whole",70,7,1,65,100,FALSE,100
+645,Munchies,"Dabur Honey - World's No.1",120,0,6,120,250,FALSE,250
+646,Munchies,"24 Mantra Organic Puffed Rice",40,2,6,39,200,FALSE,200
+647,Munchies,"Mother's Recipe Tamarind Paste",50,2,6,49,200,FALSE,200
+648,Munchies,"Quaker Oats Breakfast Cereals - With Flavour Mix Nutritious Rich Source Of Energy",49,8,6,45,200,FALSE,200
+649,Munchies,"24 Mantra Organic Wheat Daliya ",48,2,2,47,500,FALSE,500
+650,Munchies,"Popular Essentials Cloves (Lavang)",75,17,6,62,50,FALSE,50
+651,Munchies,"24 Mantra Organic Ragi Flour",65,20,4,52,500,FALSE,500
+652,Munchies,"Popular Essentials Cinnamon Whole (Dalchini)",35,5,6,33,25,FALSE,25
+653,Munchies,"Sundrop Super Lite Advanced - Sunflower Oil",215,0,4,215,1000,FALSE,1
+654,Munchies,"Pillsbury Atta/Godihittu - Chakki Fresh",102,7,4,94,2000,FALSE,2
+655,Munchies,"Popular Essentials Green Moong Chilka/Chilka (Un-Polished)",85,7,5,79,500,FALSE,500
+656,Munchies,"Popular Essentials HMT Kolam Steam",75,0,3,75,1000,FALSE,1
+657,Munchies,"Sunfeast Yippee! Power Up Atta Noodles",96,15,6,81,280,FALSE,280
+658,Munchies,"Suhana Paneer Tikka Masala Mix",40,5,6,38,50,FALSE,50
+659,Munchies,"Popular Essentials Black Urad Split",80,10,4,72,500,FALSE,500
+660,Munchies,"Keya Oregano",109,10,5,98,9,FALSE,9
+661,Munchies,"Popular Essentials Pink Rajma",100,10,6,90,500,FALSE,500
+662,Munchies,"Everest Chicken Masala",74,2,6,72,100,FALSE,100
+663,Munchies,"Popular Essentials HMT Kolam Steam",370,10,6,333,5000,FALSE,5
+664,Munchies,"Everest Shahi Paneer Masala",42,4,5,40,50,FALSE,50
+665,Munchies,"Godrej Yummiez Chicken Nuggets",325,9,1,293,500,FALSE,500
+666,Munchies,"Flying Bird Vanilla Essence",35,2,6,34,20,FALSE,20
+667,Munchies,"Everest Sabji Masala",30,3,6,29,50,FALSE,50
+668,Munchies,"Popular Essentials Californian Almond",695,32,6,470,500,FALSE,500
+669,Munchies,"Cornitos Cornitos Taco Shells - 4 Inches",110,20,6,88,80,FALSE,80
+670,Munchies,"Everest Rajma Masala",33,3,5,32,50,FALSE,50
+671,Munchies,"Popular Essentials White Til",40,5,1,38,100,FALSE,100
+672,Munchies,"Amul Dark Compound Chocolate Slab",125,2,6,122,500,FALSE,500
+673,Munchies,"Mothers Recipe Papad Chana Masala",79,10,6,71,200,FALSE,200
+674,Munchies,"24 Mantra Turmeric Powder",35,2,6,34,100,FALSE,100
+675,Munchies,"24 Mantra Super Grain Quinoa",190,0,4,190,500,FALSE,500
+676,Munchies,"Ching's Schezwan Masala Instant Noodles",60,0,1,60,240,FALSE,240
+677,Munchies,"Everest Powder - Egg Curry Masala",40,2,6,39,50,FALSE,50
+678,Munchies,"Amul Milk Compound Chocolate Slab",110,2,6,107,500,FALSE,500
+679,Munchies,"Popular Essentials Pe Shah Jeera ",60,15,6,51,50,FALSE,50
+680,Munchies,"Eastern Chicken Masala",70,7,3,65,100,FALSE,100
+681,Munchies,"Popular Essentials Methi Seeds",25,0,5,25,100,FALSE,100
+682,Munchies,"Saffola Yummy Masala Noodles ",20,0,2,20,46,FALSE,46
+683,Munchies,"Cadbury Hot Chocolate",175,5,6,166,200,FALSE,200
+684,Munchies,"24 Mantra Organic Sattu Atta",95,0,6,95,500,FALSE,500
+685,Munchies,"Ching's Chicken Chilli Masala",10,0,6,10,20,FALSE,20
+686,Munchies,"Smith & Jones Pasta Masala",46,0,6,46,54,FALSE,54
+687,Munchies,"Dabur Keora water - Authentic flavour for Biryani's and Desserts",62,6,6,58,250,FALSE,250
+688,Munchies,"Weikfield Vanilla Custard Powder",142,9,3,128,500,FALSE,500
+689,Munchies,"Sugarfree Natura Low Calorie Sweetner ",300,10,3,270,42,FALSE,42
+690,Munchies,"Popular Essentials Black Cardamom/Elaichi ",100,10,6,90,50,FALSE,50
+691,Munchies,"Popular Essentials Idli Rice",60,10,4,54,1000,FALSE,1
+692,Munchies,"Everest Chole Masala",33,3,1,32,50,FALSE,50
+693,Munchies,"Dabur Hommade Tamarind Paste",48,6,6,45,200,FALSE,200
+694,Munchies,"Popular Essentials Cooking Soda",30,10,6,27,200,FALSE,200
+695,Munchies,"RRO Primio Refined Groundnut Oil Pet Bottle",255,6,2,239,1000,FALSE,1
+696,Munchies,"Pillsbury Vanilla Custard Powder",37,2,6,36,100,FALSE,100
+697,Munchies,"24 Mantra Organic Rajma",145,0,6,145,500,FALSE,500
+698,Munchies,"Popular Essentials Broken Wheat/Daliya",35,2,6,34,500,FALSE,500
+699,Munchies,"Everest Pani Puri Masala",31,3,6,30,50,FALSE,50
+700,Munchies,"Nissin Cup Noodles Tangy Tomato",50,10,2,45,70,FALSE,70
+701,Munchies,"Zorabian Chicken Smoked Ham",205,5,1,194,250,FALSE,250
+702,Munchies,"Ching's Veg Manchurian Masala",10,0,2,10,20,FALSE,20
+703,Munchies,"Smith & Jones Peri Peri Masala",99,0,6,99,75,FALSE,75
+704,Munchies,"Ceres Foods Fish Mustard Instant Liquid Masala",220,50,6,110,200,FALSE,200
+705,Munchies,"Everest Garam Masala",158,10,6,142,200,FALSE,200
+706,Munchies,"24 Mantra Organic Jowar Flour",70,7,6,65,500,FALSE,500
+707,Munchies,"Saffola Veggie Twist Masala Oats",195,12,2,171,500,FALSE,500
+708,Munchies,"Maggi Coconut Milkpowder",100,0,6,100,100,FALSE,100
+709,Munchies,"Popular Essentials Urad Dal Split (Un-Polished)",85,9,5,77,500,FALSE,500
+710,Munchies,"Weikfield Baking Powder",22,0,6,22,50,FALSE,50
+711,Munchies,"Popular Essentials Bajra Whole",65,13,6,56,1000,FALSE,1
+712,Munchies,"On1y Pepper Grinder",159,9,1,144,50,FALSE,50
+713,Munchies,"Popular Essentials Rice Flour",60,0,3,60,1000,FALSE,1
+714,Munchies,"Sunfeast Yippee! Pasta Treat - Sour Cream Onion",28,10,1,25,65,FALSE,65
+715,Munchies,"24 Mantra Organic Brown Sona Masoori Rice",95,0,6,95,1000,FALSE,1
+716,Munchies,"Happilo Premium Afghani Anjeer",365,29,2,256,200,FALSE,200
+717,Munchies,"Weikfield Veg Jelly Crystals - Strawberry",45,2,6,44,90,FALSE,90
+718,Munchies,"Popular Essentials Chiroti Sooji",35,2,6,34,500,FALSE,500
+719,Munchies,"Weikfield Veg Jelly Crystals - Raspberry",45,2,6,44,90,FALSE,90
+720,Munchies,"RRO Til Dil Premium Til Oil Bottle",330,10,5,294,1000,FALSE,1
+721,Munchies,"Popular Essentials Red Rajma",90,10,6,81,500,FALSE,500
+722,Munchies,"Cornitos Peanut - Premium Salted ",120,10,6,108,150,FALSE,150
+723,Munchies,"Popular Essentials Black Pepper",100,10,5,90,100,FALSE,100
+724,Munchies,"Popular Essentials Masoor Dal Split (Un-Polished)",70,10,4,63,500,FALSE,500
+725,Munchies,"24 Mantra Organic Tur Dal - Split",130,7,6,120,500,FALSE,500
+726,Munchies,"Popular Essentials Ajwain Whole",50,12,2,44,100,FALSE,100
+727,Munchies,"Sugarfree Gold Low Calorie Sweetner",65,6,3,61,110,FALSE,100
+728,Munchies,"Ching's Secret Paneer Chilli Masala",10,0,2,10,20,FALSE,20
+729,Munchies,"Popular Essentials Pista Salted (With Shell)",470,21,5,371,250,FALSE,250
+730,Munchies,"The Bake Shop Bread Crumbs",50,6,3,47,400,FALSE,400
+731,Munchies,"Popular Essentials Horse Gram",40,10,4,36,500,FALSE,500
+732,Munchies,"Hershey's Chocolate Syrup",95,0,4,95,200,FALSE,200
+733,Munchies,"Godrej Yummiez Chilli Chicken Sausages ",160,10,3,144,250,FALSE,250
+734,Munchies,"Smith & Jones Pasta Masala",60,10,5,54,108,FALSE,108
+735,Munchies,"Everest Kasuri Methi",25,0,6,25,25,FALSE,25
+736,Munchies,"Catch Black Pepper Sprinkler",100,0,1,100,50,FALSE,50
+737,Munchies,"Weikfield Cooker Cake Mix - Chocolate",95,6,6,89,150,FALSE,150
+738,Munchies,"ITC Master Chef Butter Chicken",75,30,6,52,80,FALSE,80
+739,Munchies,"Satyam Makhana",208,0,6,208,100,FALSE,100
+740,Munchies,"Masala Oats Masala & Coriander ",195,9,5,176,500,FALSE,500
+741,Munchies,"Everest Tandoori Chicken Masala",39,2,5,38,50,FALSE,50
+742,Munchies,"Smith & Jones Mutter Paneer Masala",42,0,6,42,60,FALSE,60
+743,Munchies,"Weikfield Falooda Mix - Kesar Pista",49,2,3,48,200,FALSE,200
+744,Munchies,"Kitchens of India Dal Bukhara Gravy Mix",110,30,6,77,285,FALSE,285
+745,Munchies,"Weikfield Cocoa Powder",70,7,6,65,50,FALSE,50
+746,Munchies,"Popular Essentials Fried Gram (Bengal Gram)",70,10,6,63,500,FALSE,500
+747,Munchies,"Gits Jalebi with Maker Dessert Mix",75,16,6,63,100,FALSE,100
+748,Munchies,"Popular Essentials Soya Beans ",80,6,6,75,500,FALSE,500
+749,Munchies,"24 Mantra Organic Roasted Bengal Gram Dal",105,7,6,97,500,FALSE,500
+750,Munchies,"Keya Italian Seasoning",109,10,6,98,35,FALSE,35
+751,Munchies,"Pantai Coconut Cream",150,4,4,143,400,FALSE,400
+752,Munchies,"MTR Idli/Dosa/Chilly Chutney Powder",115,0,3,115,200,FALSE,200
+753,Munchies,"Delight Nuts Trail Mix ",399,25,6,299,200,FALSE,200
+754,Munchies,"Praakritik Organic Chilka Moong Dal",120,10,6,108,500,FALSE,500
+755,Munchies,"Smith & Jones Garlic & Herbs Masala Mix",99,0,6,99,75,FALSE,75
+756,Munchies,"Popular Essentials Coriander Seeds",15,0,5,15,50,FALSE,50
+757,Munchies,"Eastern Tamarind",63,0,6,63,200,FALSE,200
+758,Munchies,"Ching's Singapore Curry Instant Noodles",60,0,4,60,240,FALSE,240
+759,Munchies,"Eastern Fish Masala",48,2,5,47,100,FALSE,100
+760,Munchies,"Pillsbury Atta/Godihittu - Chakki Fresh",275,0,6,275,5000,FALSE,5
+761,Munchies,"Oleev Smart Oil Fortified with VIT A, D, E & K (Pouch)",215,9,4,194,1000,FALSE,1
+762,Munchies,"Everest Dry Ginger Powder",75,9,4,68,100,FALSE,100
+763,Munchies,"Pillsbury Cooker Cake Mix - Choco",100,11,6,89,159,FALSE,159
+764,Munchies,"Hersheys Chocolate Almond Syrup",200,0,2,200,450,FALSE,450
+765,Munchies,"Satyam Nighties Spices  Chilli Pandi",56,7,5,52,100,FALSE,100
+766,Munchies,"Popular Essentials Popular Essential Pista Salted (With Shell)",190,10,6,171,100,FALSE,100
+767,Munchies,"Godrej Yummiez Chicken Punjabi Tikka ",295,9,6,266,360,FALSE,360
+768,Munchies,"Popular Essentials Rozana Sona Masuri Raw Rice",350,10,5,312,5000,FALSE,5
+769,Munchies,"24 Mantra Mustard Oil (Cold Pressed) ",350,10,6,312,1000,FALSE,1
+770,Munchies,"Tong Garden Wasabi Coated Greenpeas Tin",200,11,6,178,180,FALSE,180
+771,Munchies,"24 Mantra Organic Black Pepper",170,7,6,157,100,FALSE,100
+772,Munchies,"Flying Bird Pineapple Artifical Food Essence",50,2,6,49,20,FALSE,20
+773,Munchies,"Popular Essentials Green Moong Whole",90,16,3,75,500,FALSE,500
+774,Munchies,"Mother's Recipe Tamarind Paste",50,2,2,49,200,FALSE,200
+775,Munchies,"24 Mantra Organic Masoor Dal - Split",95,7,6,88,500,FALSE,500
+776,Munchies,"Japanese Choice Udon Noodles",295,9,6,266,250,FALSE,250
+777,Munchies,"Praakritik Organic Natural Rock Salt",60,6,3,56,500,FALSE,500
+778,Munchies,"Pantai Coconut Milk",150,0,4,150,400,FALSE,400
+779,Munchies,"24 Mantra Sunflower Oil (Cold Pressed) Pet Bottle",390,11,5,347,1000,FALSE,1
+780,Munchies,"Praakritik Organic Masoor Dal",130,10,6,116,500,FALSE,500
+781,Munchies,"Popular Essentials Classic Sona Masuri Rice",430,10,6,387,5000,FALSE,5
+782,Munchies,"Popular Essentials Salted Murmure ",70,18,6,57,400,FALSE,400
+783,Munchies,"Oleev Active Oil (Pouch)",265,9,6,239,1000,FALSE,1
+784,Munchies,"Delight Nuts Dried Blueberries ",540,20,6,432,150,FALSE,150
+785,Munchies,"Popular Essentials Double Beans White",60,10,6,54,250,FALSE,250
+786,Munchies,"Delight Nuts Almond Natural ",349,20,6,279,200,FALSE,200
+787,Munchies,"Praakritik Organic Jaggery",160,6,6,150,900,FALSE,900
+788,Munchies,"Praakritik Organic Raw Sugar",90,6,6,84,500,FALSE,500
+789,Munchies,"MTR Masala - Sambar Powder",115,0,4,115,200,FALSE,200
+790,Munchies,"RRO Til Dil Premium Til Oil Bottle",173,6,6,162,500,FALSE,500
+791,Munchies,"ITC Master Chef Vegetable Biryani Cooking Paste",75,30,5,52,80,FALSE,80
+792,Munchies,"Jivana Jaggery",100,0,2,100,950,FALSE,950
+793,Munchies,"Praakritik Organic Besan",170,6,6,159,500,FALSE,500
+794,Munchies,"MTR Instant Gulab Jamun Mix",195,9,6,176,500,FALSE,500
+795,Munchies,"Maggi Magic Cubes Extra Chicken",199,0,2,199,240,FALSE,240
+796,Munchies,"On1y Mixed Herbs",99,0,6,99,14,FALSE,14
+797,Munchies,"Popular Essentials Urad Gola Black (Un-Polished)",80,10,6,72,500,FALSE,500
+798,Munchies,"Gits Dessert Mix China Grass Bombay Halwa",55,0,4,55,80,FALSE,80
+799,Munchies,"Praakritik Organic Basmati Rice",170,0,5,170,500,FALSE,500
+800,Munchies,"Ceres Foods Nalli Nihari Instant Liquid Masala",220,50,6,110,200,FALSE,200
+801,Munchies,"Borges Canola Oil Pet Bottle",399,0,6,399,1000,FALSE,1
+802,Munchies,"Suhana Biryani Masala",66,0,6,66,50,FALSE,50
+803,Munchies,"On1y Black Salt Grinder",99,0,6,99,100,FALSE,100
+804,Munchies,"Popular Essentials Nylon Til",40,2,6,39,100,FALSE,100
+805,Munchies,"Pillsbury Rich Choco Oven Cake Mix - Egg Free",170,6,6,159,270,FALSE,270
+806,Munchies,"Weikfield Tomato Salsa Instant Pasta",25,0,1,25,77,FALSE,77
+807,Munchies,"Praakritik Organic Jowar Atta",110,6,6,103,500,FALSE,500
+808,Munchies,"Sugarfree Gold Low Calorie Sweetner ",270,7,6,251,50,FALSE,50
+809,Munchies,"Epicurea Thai Jasmine Rice",295,0,4,295,500,FALSE,500
+810,Munchies,"Yummiez Chicken Garlic Fingers Pouch",250,0,5,250,400,FALSE,400
+811,Munchies,"RRO Primio Refined Groundnut (Jar)",490,11,6,436,2000,FALSE,2
+812,Munchies,"Praakritik Organic Tuvar Dal",140,0,6,140,500,FALSE,500
+813,Munchies,"Sugarfree Gold Low Calorie Sweetner",185,5,3,175,300,FALSE,300
+814,Munchies,"Cantina Beans Mexican Beans",250,14,6,213,410,FALSE,410
+815,Munchies,"Pillsbury Oven Cake Mix - Vanilla",175,10,6,156,225,FALSE,225
+816,Munchies,"Hershey's Chocolate Milk Booster",200,0,6,200,450,FALSE,450
+817,Munchies,"Popular Essentials Byadagi Chilli Stemless",80,0,6,80,100,FALSE,100
+818,Munchies,"Suhana Spice Mix - Chicken Biryani",66,0,6,66,50,FALSE,50
+819,Munchies,"Praakritik Organic Yellow Moon Dal",135,0,6,135,500,FALSE,500
+820,Munchies,"Maggi Magic Cubes Extra Chicken",199,10,6,179,240,FALSE,240
+821,Munchies,"Dhara Filtered Groundnut Oil (Jar)",1050,0,2,1050,5000,FALSE,5
+822,Munchies,"24 Mantra Sona Masuri Brown Rice",475,10,6,423,5000,FALSE,5
+823,Munchies,"24 Mantra Organic Pancharatna Dal - Split",130,7,6,120,500,FALSE,500
+824,Munchies,"24 Mantra Organic Cumin Powder",70,0,6,70,100,FALSE,100
+825,Munchies,"Popular Essentials Samba Broken Wheat",100,11,6,89,500,FALSE,500
+826,Munchies,"Betty Crocker Chocolate Fudge Cake Mix",295,0,6,295,475,FALSE,475
+827,Munchies,"Ching's Secret Instant Noodles, Hot Garlic",60,0,4,60,240,FALSE,240
+828,Munchies,"Borges Extra Light Olive Oil Bottle ",2600,46,6,1399,2000,FALSE,2
+829,Munchies,"Saffola Everyday Peppy Tomato Masala Oats",195,12,6,171,500,FALSE,500
+830,Munchies,"Flying Bird Premium Orange Artificial Food Essence",60,0,6,60,20,FALSE,20
+831,Munchies,"Popular Essentials Red Cherry/Gundu Chilli",95,0,6,95,100,FALSE,100
+832,Munchies,"Super Saver Kolam Rice Sortex Clean ",700,10,3,630,5000,FALSE,5
+833,Munchies,"Flying Bird Food Essence - Kewra",50,0,6,50,20,FALSE,20
+834,Munchies,"MTR Vada Breakfast",200,0,1,200,500,FALSE,500
+835,Munchies,"On1y Pasta Seasoning",99,0,6,99,30,FALSE,30
+836,Munchies,"Praakritik Organic Indrayani Rice",70,0,6,70,500,FALSE,500
+837,Munchies,"On1y Pizza Seasoning",99,0,6,99,28,FALSE,28
+838,Munchies,"Kitchens of India Mutter Paneer Mix",120,30,4,84,285,FALSE,285
+839,Munchies,"Aashirvaad Svasti Cow Ghee Tetra Pack",295,0,6,295,500,FALSE,500
+840,Munchies,"Dabur 100% Pure Honey - Worlds No.1",430,10,6,387,1000,FALSE,1
+841,Munchies,"Weikfield Cooker Cake Mix - Vanilla",95,0,6,95,150,FALSE,150
+842,Munchies,"Popular Essentials Star Anise",70,10,5,63,25,FALSE,25
+843,Munchies,"Ching's Secret Chicken 65 Masala - Chicken",10,0,5,10,20,FALSE,20
+844,Munchies,"Cadbury Cocoa Powder",223,5,6,211,150,FALSE,150
+845,Munchies,"Praakritik Natural Desi Gir Cow A2 Ghee",1450,10,6,1305,540,FALSE,540
+846,Munchies,"Praakritik Organic Poha",120,6,5,112,500,FALSE,500
+847,Munchies,"Praakritik Organic Natural Wild Forest Honey",160,6,4,150,200,FALSE,200
+848,Munchies,"Popular Essentials Dry Dates (Kharak)",140,15,6,118,250,FALSE,250
+849,Munchies,"Popular Essentials Kashmiri Red Rajma",95,6,4,89,500,FALSE,500
+850,Munchies,"Dabur Hommade - Garlic Paste",50,6,6,47,200,FALSE,200
+851,Munchies,"Dabur 100% Pure Honey",330,10,1,297,400,FALSE,400
+852,Munchies,"Ching's Schezwan Fried Rice(Miracle Masala)",44,0,5,44,60,FALSE,60
+853,Munchies,"Praakritik Organic Kapli Wheat Atta",165,10,6,147,1000,FALSE,1
+854,Munchies,"Everest Tandoori Chicken Masala",74,9,3,67,100,FALSE,100
+855,Munchies,"Epicurea Sushi Rice",295,0,6,295,500,FALSE,500
+856,Munchies,"Sugarfree Natural Green Stevia Leaves Zero Calorie",75,0,2,75,100,FALSE,100
+857,Munchies,"Smith & Jones Italian Spices Masala Mix",99,0,6,99,75,FALSE,75
+858,Munchies,"Satyam Nighties Spices  Chilli Bore",89,10,6,80,100,FALSE,100
+859,Munchies,"Weikfield Veg Jelly Crystals - Orange",45,2,6,44,90,FALSE,90
+860,Munchies,"Praakritik Organic Jumbo Rolled Oats",190,11,6,169,500,FALSE,500
+861,Munchies,"On1y Sea Salt Grinder",89,0,6,89,100,FALSE,100
+862,Munchies,"Delight Nuts Berries Mix ",399,20,6,319,200,FALSE,200
+863,Munchies,"Everest Kesari Milk Masala",205,0,6,205,50,FALSE,20
+864,Munchies,"Praakritik Organic Ginger Powder",139,10,6,125,100,FALSE,100
+865,Munchies,"Suhana Mutton Gravy Mix",45,0,4,45,80,FALSE,80
+866,Munchies,"On1y Salad Seasoning Grinder",139,0,6,139,45,FALSE,45
+867,Munchies,"Figaro Pure Olive Oil",325,8,1,299,200,FALSE,200
+868,Munchies,"Madhur Sugar",60,6,0,56,1000,TRUE,1
+869,Munchies,"Amul Fresh Cream",63,0,0,63,250,TRUE,250
+870,Munchies,"Madhur Pure And Hygienic Sugar",295,9,0,266,5000,TRUE,5
+871,Munchies,"Satyam Poha Jada",35,8,0,32,500,TRUE,500
+872,Munchies,"Popular Essentials Red Poha",45,4,6,43,500,FALSE,500
+873,Munchies,"Everest Kitchen King Masala",142,9,6,128,200,FALSE,200
+874,Munchies,"Pillsbury Oven Cake Mix - Rich Chocolate",165,10,5,147,285,FALSE,285
+875,Munchies,"Eastern Super Garam Masala",74,6,2,69,200,FALSE,200
+876,Munchies,"Maggi Magic Cubes Extra Chicken",40,2,6,39,48,FALSE,48
+877,Munchies,"Satyam Nighties Spices  Chilli Kashmiri",102,6,6,95,100,FALSE,100
+878,Munchies,"Eastern Cumin Powder",49,2,6,48,100,FALSE,100
+879,Munchies,"Popular Essentials Urad Gola White(Un-Polished)",90,10,6,81,500,FALSE,500
+880,Munchies,"24 Mantra Organic Chana Dal",95,6,5,89,500,FALSE,500
+881,Munchies,"Delight Nuts Cashew Roasted & Salted",425,20,6,340,200,FALSE,200
+882,Munchies,"Popular Essentials Mace/Javitri",90,10,3,81,20,FALSE,20
+883,Munchies,"Dlicia Whip Topping Bottle",235,27,5,171,1000,FALSE,1
+884,Munchies,"Mother's Recipe Paste Ginger & Garlic",76,10,4,68,300,FALSE,300
+885,Munchies,"24 Mantra Groundnut Oil (Cold Pressed) Pet Bottle",410,10,6,369,1000,FALSE,1
+886,Munchies,"Satyam Pulses Masur Dal",87,6,6,81,500,FALSE,500
+887,Munchies,"Delight Nuts Pista Roasted & Salted",425,20,6,340,200,FALSE,200
+888,Munchies,"Top Ramen Noodles, Atta",80,0,1,80,280,FALSE,280
+889,Munchies,"Hershey's Cocoa Powder",95,0,5,95,70,FALSE,70
+890,Munchies,"Praakritik Organic Singhara Atta",240,6,4,225,500,FALSE,500
+891,Munchies,"Gits Veg Biryani Ready to Eat",110,10,6,99,265,FALSE,265
+892,Munchies,"Delight Nuts Cranberries Sliced ",299,20,6,239,200,FALSE,200
+893,Munchies,"Borges Durum Wheat Pasta Superior Quality",250,40,6,149,500,FALSE,500
+894,Munchies,"Ceres Foods Laal Maas Instant Liquid Masala",220,50,5,110,200,FALSE,200
+895,Munchies,"Popular Essentials Sattu Atta",90,12,3,79,500,FALSE,500
+896,Munchies,"Popular Essentials Mustard Seeds Rai Yellow",25,0,5,25,100,FALSE,100
+897,Munchies,"Praakritik Organic Extra Virgin Coconut Oil",150,10,5,134,100,FALSE,100
+898,Munchies,"Praakritik Organic Garlic Powder",110,1,5,108,100,FALSE,100
+899,Munchies,"Sugarfree Gold Low Calorie Sweetner ",125,5,6,118,100,FALSE,100
+900,Munchies,"Aashirvaad Breakfast Instant Mix - Rice Idli",75,30,6,52,200,FALSE,200
+901,Munchies,"Kitchens Of India Mutter Paneer",130,4,6,124,285,FALSE,285
+902,Munchies,"Ching's Secret Veg Manchurian Masala",44,0,6,44,60,FALSE,60
+903,Munchies,"Popular Essentials Jowa Flour",50,2,5,49,500,FALSE,500
+904,Munchies,"Everest Shahi Biryani Masala",245,0,6,245,200,FALSE,200
+905,Munchies,"Popular Essentials Black Til",50,6,4,47,100,FALSE,100
+906,Munchies,"Popular Essentials Pancharatna Dal",80,10,6,72,500,FALSE,500
+907,Munchies,"Saffola 100% Pure Honey",475,8,2,437,1000,FALSE,750
+908,Munchies,"Popular Essentials Tamarind",150,14,6,128,500,FALSE,500
+909,Munchies,"Gits Rice Dosa Instant Breakfast Mix",60,5,5,57,200,FALSE,200
+910,Munchies,"Popular Essentials Poppy Seeds (Gasagase)",280,7,6,260,100,FALSE,100
+911,Munchies,"Hershey's Hot Chocolate Powder",210,0,4,210,250,FALSE,250
+912,Munchies,"Borges Farfalle Durum Wheat Pasta ",250,0,5,250,500,FALSE,500
+913,Munchies,"Satyam Chilli  Bedgi",82,10,5,73,100,FALSE,100
+914,Munchies,"Aashirvaad Instant Mix - Rice Dosa",75,30,6,52,200,FALSE,200
+915,Munchies,"Hershey's Cocoa - Natural Unsweetened",270,10,4,243,225,FALSE,225
+916,Munchies,"Weikfield Veg Jelly Crystals - Mango",45,2,6,44,90,FALSE,90
+917,Munchies,"Praakritik Orrganic Cold Pressed Sesame Oil",130,10,5,117,100,FALSE,100
+918,Munchies,"Amulya Dairy Whitener ",380,2,4,372,1000,FALSE,1
+919,Munchies,"ITC Master Chef Hyderabadi Biryani",75,30,5,52,80,FALSE,80
+920,Munchies,"Flying Bird Butter Scotch Essence",50,2,6,49,20,FALSE,20
+921,Munchies,"Dabur Hommade - Ginger Paste",50,6,6,47,200,FALSE,200
+922,Munchies,"Popular Essentials Green Peas (Un-Polished)",120,10,5,108,500,FALSE,500
+923,Munchies,"Quaker Oats Pouch",276,10,6,248,1500,FALSE,1
+924,Munchies,"24 Mantra Organic Urad White Whole",145,15,4,122,500,FALSE,500
+925,Munchies,"Popular Essentials Guntur Chilli Stemless",40,2,2,39,100,FALSE,100
+926,Munchies,"Popular Essentials Moth Whole",90,10,6,81,500,FALSE,500
+927,Munchies,"Keya Pizza Seasoning",109,17,6,90,45,FALSE,45
+928,Munchies,"Keya Piri Piri | Exotic Spices Mix",109,20,6,87,80,FALSE,80
+929,Munchies,"24 Mantra Organic Moong Dal",135,7,6,125,500,FALSE,500
+930,Munchies,"Betty Crocker French Vanilla Cake Mix",310,10,6,276,520,FALSE,520
+931,Munchies,"Delight Nuts Dried Cranberries ",340,20,6,272,200,FALSE,200
+932,Munchies,"Everest Kesari Milk Masala",205,0,2,205,50,FALSE,50
+933,Munchies,"Tong Garden Salted Cocktail Nuts",295,9,5,266,160,FALSE,160
+934,Munchies,"MTR Uttapam Mix",165,5,6,156,500,FALSE,500
+935,Munchies,"Gits Khaman Dhokla Instant Snack Mix",65,6,6,61,180,FALSE,180
+936,Munchies,"Happilo Premium 100% Natural Whole Cashews",335,29,6,235,200,FALSE,200
+937,Munchies,"Everest Dry Mango Powder",80,0,5,80,100,FALSE,100
+938,Munchies,"Dabur Hommade - Ginger Garlic Past Tub",110,5,6,104,400,FALSE,400
+939,Munchies,"Everest Chicken Masala",147,10,6,132,200,FALSE,200
+940,Munchies,"Gits Medu Vada Instant Snack Mix",90,4,6,86,200,FALSE,200
+941,Munchies,"Weikfield Drinking Chocolate Powder",65,10,6,58,100,FALSE,100
+942,Munchies,"Popular Essentials Regular White Lobia",70,10,6,63,500,FALSE,500
+943,Munchies,"Puro Healthy Salt Crystal",135,7,6,125,1000,FALSE,1
+944,Munchies,"Popular Essentials Premium Jeera Rice",140,0,5,140,1000,FALSE,1
+945,Munchies,"Smith & Jones Shahi Paneer Masala Mix",44,0,6,44,60,FALSE,60
+946,Munchies,"Betty Crocker Mug Treats - Chocolate Mix - Pack of 4",200,11,6,178,264,FALSE,264
+947,Munchies,"Maggi Special Masala Spicy Yummy Noodles",72,0,0,72,280,TRUE,280
+948,Munchies,"Godrej Yummiez Chicken Breakfast Salami",150,4,0,143,250,TRUE,250
+949,Munchies,"Everest Saffron Kesar",120,0,0,120,1,TRUE,0
+950,"Dairy, Bread & Batter","Mother Dairy Toned Milk Pouch",25,0,4,25,500,FALSE,500
+951,"Dairy, Bread & Batter","Mother Dairy Classic Curd",30,3,6,29,400,FALSE,400
+952,"Dairy, Bread & Batter","Mother Dairy Ultra Full Cream Milk",31,0,4,31,500,FALSE,500
+953,"Dairy, Bread & Batter","Amul Butter - Pasteurised",50,2,6,49,100,FALSE,100
+954,"Dairy, Bread & Batter","Britannia Sandwich White Bread",33,0,4,33,350,FALSE,350
+955,"Dairy, Bread & Batter","iD Curd Pouch",35,2,6,34,400,FALSE,400
+956,"Dairy, Bread & Batter","iD Idli & Dosa Batter ",80,15,6,68,1000,FALSE,1
+957,"Dairy, Bread & Batter","Britannia 100% Whole Wheat Bread",45,0,4,45,450,FALSE,450
+958,"Dairy, Bread & Batter","Britannia Healthy Slice Sandwich Bread",40,0,4,40,450,FALSE,450
+959,"Dairy, Bread & Batter","Gowardhan Classic Block Fresh Paneer",89,8,6,81,200,FALSE,200
+960,"Dairy, Bread & Batter","Amul Processed Cheese Cubes",106,4,6,101,200,FALSE,200
+961,"Dairy, Bread & Batter","Britannia Pav",22,0,4,22,250,FALSE,250
+962,"Dairy, Bread & Batter","Amul Butter - Pasteurised",245,2,6,240,500,FALSE,500
+963,"Dairy, Bread & Batter","Arden Eggs White",97,0,4,97,696,FALSE,12
+964,"Dairy, Bread & Batter","Arden Eggs White",65,15,4,55,348,FALSE,6
+965,"Dairy, Bread & Batter","Nestle A+ Nourish Dahi",35,2,6,34,200,FALSE,200
+966,"Dairy, Bread & Batter","Britannia Burger Bun with Sesame Seed",15,0,4,15,100,FALSE,100
+967,"Dairy, Bread & Batter","Amul Frozen Malai Paneer",75,2,6,73,200,FALSE,200
+968,"Dairy, Bread & Batter","iD Natural Paneer",105,5,6,99,200,FALSE,200
+969,"Dairy, Bread & Batter","Britannia Fruit Bun",17,0,3,17,100,FALSE,100
+970,"Dairy, Bread & Batter","Amul Cheese - Processed Slices",122,1,6,120,200,FALSE,200
+971,"Dairy, Bread & Batter","iD Curd Cup",60,0,6,60,400,FALSE,400
+972,"Dairy, Bread & Batter","The Bake Shop Premium White Sandwich Bread",30,0,1,30,400,FALSE,400
+973,"Dairy, Bread & Batter","Britannia Multigrain Bread ",55,0,4,55,400,FALSE,400
+974,"Dairy, Bread & Batter","Amul Processed Cheese Block",106,0,6,106,200,FALSE,200
+975,"Dairy, Bread & Batter","Nestle A+ Nourish Dahi",70,2,6,68,400,FALSE,400
+976,"Dairy, Bread & Batter","Arden Eggs Brown",85,7,4,79,348,FALSE,6
+977,"Dairy, Bread & Batter","Epigamia Misti Doi",30,0,6,30,85,FALSE,85
+978,"Dairy, Bread & Batter","Amul Cheese - Block",245,2,6,240,500,FALSE,500
+979,"Dairy, Bread & Batter","Amul Butter - Pasteurised (School Pack)",59,3,6,57,100,FALSE,100
+980,"Dairy, Bread & Batter","Britannia Brown Bread ",42,0,4,42,400,FALSE,400
+981,"Dairy, Bread & Batter","Amul Fresh Cream",197,3,3,191,1000,FALSE,1
+982,"Dairy, Bread & Batter","Epigamia Natural Greek Yogurt",45,0,6,45,90,FALSE,90
+983,"Dairy, Bread & Batter","The Bake Shop Pizza Base",30,0,1,30,150,FALSE,150
+984,"Dairy, Bread & Batter","Amul Delicious Fat Spread - Cholesterol Free",18,5,6,17,100,FALSE,100
+985,"Dairy, Bread & Batter","D'lecta Dairy Cream",54,5,6,51,200,FALSE,200
+986,"Dairy, Bread & Batter","Nestle A+ Actiplus Probiotic Dahi Plain Curd",78,3,5,75,400,FALSE,400
+987,"Dairy, Bread & Batter","Bio Nutrients Pure Diet Tofu Gold ",60,5,5,57,200,FALSE,200
+988,"Dairy, Bread & Batter","Amul Delicious Fat Spread - Cholesterol Free",88,2,2,86,500,FALSE,500
+989,"Dairy, Bread & Batter","Amul Mithai Mate Condensed Sweetened Milk",56,3,4,54,200,FALSE,200
+990,"Dairy, Bread & Batter","Arden Desi Eggs",110,13,4,95,348,FALSE,6
+991,"Dairy, Bread & Batter","Amul Cheese - Pepper",85,3,6,82,200,FALSE,200
+992,"Dairy, Bread & Batter","Amul Cheese Spread Creamy",85,5,6,80,180,FALSE,180
+993,"Dairy, Bread & Batter","The Bake Shop Foot Long",40,0,1,40,200,FALSE,200
+994,"Dairy, Bread & Batter","Amul Cheese Slices",360,0,1,359,750,FALSE,750
+995,"Dairy, Bread & Batter","Suguna Sharp Egg ",72,13,3,62,348,FALSE,6
+996,"Dairy, Bread & Batter","Amul Cheese Sauce Mexican Salsa",75,4,1,72,200,FALSE,200
+997,"Dairy, Bread & Batter","Nestle Everyday Dairy Whitener",210,0,4,210,400,FALSE,400
+998,"Dairy, Bread & Batter","Amul Pizza Cheese Processed",109,4,6,104,200,FALSE,200
+999,"Dairy, Bread & Batter","Betty Crocker Complete Pancake Mix Original",110,4,6,105,250,FALSE,500
+1000,"Dairy, Bread & Batter","Amul Lite Spread",40,2,5,39,100,FALSE,100
